@@ -1,0 +1,1 @@
+<p style="background: #ffffdd"> This is a paragraph with special style. </p>

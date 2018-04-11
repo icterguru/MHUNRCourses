@@ -1,0 +1,2735 @@
+From: <Saved by Windows Internet Explorer 7>
+Subject: Learning Theories and Instructional Design
+Date: Sat, 1 Mar 2008 15:18:54 -0800
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://www.spsu.edu/htc/hughes/papers/interface.htm
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.3198
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML xmlns=3D"http://www.w3.org/TR/REC-html40" xmlns:v =3D=20
+"urn:schemas-microsoft-com:vml" xmlns:o =3D=20
+"urn:schemas-microsoft-com:office:office" xmlns:w =3D=20
+"urn:schemas-microsoft-com:office:word"><HEAD><TITLE>Learning Theories =
+and Instructional Design</TITLE>
+<META http-equiv=3DContent-Type content=3D"text/html; =
+charset=3Dwindows-1252">
+<META content=3DWord.Document name=3DProgId>
+<META content=3D"MSHTML 6.00.6000.16608" name=3DGENERATOR>
+<META content=3D"Microsoft Word 9" name=3DOriginator><LINK=20
+href=3D"./interface_files/filelist.xml" rel=3DFile-List><LINK=20
+href=3D"./interface_files/editdata.mso" rel=3DEdit-Time-Data><!--[if =
+!mso]>
+<STYLE>v\:* {
+	BEHAVIOR: url(#default#VML)
+}
+o\:* {
+	BEHAVIOR: url(#default#VML)
+}
+w\:* {
+	BEHAVIOR: url(#default#VML)
+}
+.shape {
+	BEHAVIOR: url(#default#VML)
+}
+</STYLE>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Michael Hughes</o:Author>
+  <o:LastAuthor>Michael Hughes</o:LastAuthor>
+  <o:Revision>5</o:Revision>
+  <o:TotalTime>297</o:TotalTime>
+  <o:Created>1999-08-12T10:20:00Z</o:Created>
+  <o:LastSaved>1999-08-12T10:24:00Z</o:LastSaved>
+  <o:Pages>11</o:Pages>
+  <o:Words>3687</o:Words>
+  <o:Characters>21018</o:Characters>
+  <o:Lines>175</o:Lines>
+  <o:Paragraphs>42</o:Paragraphs>
+  <o:CharactersWithSpaces>25811</o:CharactersWithSpaces>
+  <o:Version>9.2720</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]-->
+<STYLE>@font-face {
+	font-family: MS Sans Serif;
+}
+@font-face {
+	font-family: Tahoma;
+}
+@font-face {
+	font-family: Arial Narrow;
+}
+@font-face {
+	font-family: Garamond;
+}
+@page Section1 {size: 8.5in 11.0in; margin: 1.0in 1.25in 1.0in 1.25in; =
+mso-header-margin: .5in; mso-footer-margin: .5in; mso-paper-source: 0; }
+P.MsoNormal {
+	FONT-SIZE: 12pt; MARGIN: 0in 0in 0pt; FONT-FAMILY: "Times New Roman"; =
+mso-style-parent: ""; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"
+}
+LI.MsoNormal {
+	FONT-SIZE: 12pt; MARGIN: 0in 0in 0pt; FONT-FAMILY: "Times New Roman"; =
+mso-style-parent: ""; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"
+}
+DIV.MsoNormal {
+	FONT-SIZE: 12pt; MARGIN: 0in 0in 0pt; FONT-FAMILY: "Times New Roman"; =
+mso-style-parent: ""; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"
+}
+H1 {
+	FONT-SIZE: 12pt; MARGIN: 12pt 0in 3pt; LINE-HEIGHT: 200%; FONT-FAMILY: =
+Arial; TEXT-ALIGN: center; mso-pagination: widow-orphan; mso-style-next: =
+Normal; mso-outline-level: 1; mso-bidi-font-size: 10.0pt; =
+mso-font-kerning: 14.0pt
+}
+H2 {
+	FONT-SIZE: 12pt; MARGIN: 12pt 0in 3pt; LINE-HEIGHT: 200%; FONT-STYLE: =
+italic; FONT-FAMILY: Arial; mso-pagination: widow-orphan; =
+mso-style-next: Normal; mso-outline-level: 2; mso-bidi-font-size: 10.0pt
+}
+H3 {
+	FONT-SIZE: 10pt; MARGIN: 12pt 0in 3pt; LINE-HEIGHT: 200%; FONT-FAMILY: =
+Arial; mso-pagination: widow-orphan; mso-style-next: Normal; =
+mso-outline-level: 3
+}
+H4 {
+	FONT-WEIGHT: normal; FONT-SIZE: 12pt; MARGIN: 12pt 0in 3pt; =
+TEXT-INDENT: 0.5in; LINE-HEIGHT: 200%; FONT-FAMILY: "Times New Roman"; =
+TEXT-DECORATION: underline; mso-pagination: widow-orphan; =
+mso-style-next: Normal; mso-outline-level: 4; mso-bidi-font-size: =
+10.0pt; text-underline: single
+}
+H5 {
+	FONT-WEIGHT: normal; FONT-SIZE: 12pt; MARGIN: 12pt 0in 3pt; =
+TEXT-TRANSFORM: uppercase; LINE-HEIGHT: 200%; FONT-FAMILY: "Times New =
+Roman"; TEXT-ALIGN: center; mso-pagination: widow-orphan; =
+mso-style-next: Normal; mso-outline-level: 5; mso-bidi-font-size: 10.0pt
+}
+P.MsoToc1 {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; MARGIN: 6pt 0in; TEXT-TRANSFORM: =
+uppercase; LINE-HEIGHT: 200%; FONT-FAMILY: "Times New Roman"; =
+mso-pagination: widow-orphan; mso-fareast-font-family: "Times New =
+Roman"; mso-style-next: Normal; mso-style-update: auto; tab-stops: right =
+dotted 6.0in; mso-bidi-font-weight: normal
+}
+LI.MsoToc1 {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; MARGIN: 6pt 0in; TEXT-TRANSFORM: =
+uppercase; LINE-HEIGHT: 200%; FONT-FAMILY: "Times New Roman"; =
+mso-pagination: widow-orphan; mso-fareast-font-family: "Times New =
+Roman"; mso-style-next: Normal; mso-style-update: auto; tab-stops: right =
+dotted 6.0in; mso-bidi-font-weight: normal
+}
+DIV.MsoToc1 {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; MARGIN: 6pt 0in; TEXT-TRANSFORM: =
+uppercase; LINE-HEIGHT: 200%; FONT-FAMILY: "Times New Roman"; =
+mso-pagination: widow-orphan; mso-fareast-font-family: "Times New =
+Roman"; mso-style-next: Normal; mso-style-update: auto; tab-stops: right =
+dotted 6.0in; mso-bidi-font-weight: normal
+}
+P.MsoToc2 {
+	FONT-SIZE: 10pt; MARGIN: 0in 0in 0pt 12pt; LINE-HEIGHT: 200%; =
+FONT-FAMILY: "Times New Roman"; FONT-VARIANT: small-caps; =
+mso-pagination: widow-orphan; mso-fareast-font-family: "Times New =
+Roman"; mso-style-next: Normal; mso-style-update: auto; tab-stops: right =
+dotted 6.0in
+}
+LI.MsoToc2 {
+	FONT-SIZE: 10pt; MARGIN: 0in 0in 0pt 12pt; LINE-HEIGHT: 200%; =
+FONT-FAMILY: "Times New Roman"; FONT-VARIANT: small-caps; =
+mso-pagination: widow-orphan; mso-fareast-font-family: "Times New =
+Roman"; mso-style-next: Normal; mso-style-update: auto; tab-stops: right =
+dotted 6.0in
+}
+DIV.MsoToc2 {
+	FONT-SIZE: 10pt; MARGIN: 0in 0in 0pt 12pt; LINE-HEIGHT: 200%; =
+FONT-FAMILY: "Times New Roman"; FONT-VARIANT: small-caps; =
+mso-pagination: widow-orphan; mso-fareast-font-family: "Times New =
+Roman"; mso-style-next: Normal; mso-style-update: auto; tab-stops: right =
+dotted 6.0in
+}
+P.MsoToc3 {
+	FONT-SIZE: 12pt; MARGIN: 0in 0in 0pt 24pt; LINE-HEIGHT: 200%; =
+FONT-STYLE: italic; FONT-FAMILY: "Times New Roman"; mso-pagination: =
+widow-orphan; mso-fareast-font-family: "Times New Roman"; =
+mso-style-next: Normal; mso-bidi-font-size: 10.0pt; mso-style-update: =
+auto; tab-stops: right dotted 6.0in; mso-bidi-font-style: normal
+}
+LI.MsoToc3 {
+	FONT-SIZE: 12pt; MARGIN: 0in 0in 0pt 24pt; LINE-HEIGHT: 200%; =
+FONT-STYLE: italic; FONT-FAMILY: "Times New Roman"; mso-pagination: =
+widow-orphan; mso-fareast-font-family: "Times New Roman"; =
+mso-style-next: Normal; mso-bidi-font-size: 10.0pt; mso-style-update: =
+auto; tab-stops: right dotted 6.0in; mso-bidi-font-style: normal
+}
+DIV.MsoToc3 {
+	FONT-SIZE: 12pt; MARGIN: 0in 0in 0pt 24pt; LINE-HEIGHT: 200%; =
+FONT-STYLE: italic; FONT-FAMILY: "Times New Roman"; mso-pagination: =
+widow-orphan; mso-fareast-font-family: "Times New Roman"; =
+mso-style-next: Normal; mso-bidi-font-size: 10.0pt; mso-style-update: =
+auto; tab-stops: right dotted 6.0in; mso-bidi-font-style: normal
+}
+P.MsoToc4 {
+	FONT-SIZE: 9pt; MARGIN: 0in 0in 0pt 0.5in; LINE-HEIGHT: 200%; =
+FONT-FAMILY: "Times New Roman"; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"; mso-style-next: Normal; =
+mso-bidi-font-size: 10.0pt; mso-style-update: auto; tab-stops: right =
+dotted 6.0in
+}
+LI.MsoToc4 {
+	FONT-SIZE: 9pt; MARGIN: 0in 0in 0pt 0.5in; LINE-HEIGHT: 200%; =
+FONT-FAMILY: "Times New Roman"; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"; mso-style-next: Normal; =
+mso-bidi-font-size: 10.0pt; mso-style-update: auto; tab-stops: right =
+dotted 6.0in
+}
+DIV.MsoToc4 {
+	FONT-SIZE: 9pt; MARGIN: 0in 0in 0pt 0.5in; LINE-HEIGHT: 200%; =
+FONT-FAMILY: "Times New Roman"; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"; mso-style-next: Normal; =
+mso-bidi-font-size: 10.0pt; mso-style-update: auto; tab-stops: right =
+dotted 6.0in
+}
+P.MsoToc5 {
+	FONT-SIZE: 9pt; MARGIN: 0in 0in 0pt 48pt; LINE-HEIGHT: 200%; =
+FONT-FAMILY: "Times New Roman"; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"; mso-style-next: Normal; =
+mso-bidi-font-size: 10.0pt; mso-style-update: auto; tab-stops: right =
+dotted 6.0in
+}
+LI.MsoToc5 {
+	FONT-SIZE: 9pt; MARGIN: 0in 0in 0pt 48pt; LINE-HEIGHT: 200%; =
+FONT-FAMILY: "Times New Roman"; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"; mso-style-next: Normal; =
+mso-bidi-font-size: 10.0pt; mso-style-update: auto; tab-stops: right =
+dotted 6.0in
+}
+DIV.MsoToc5 {
+	FONT-SIZE: 9pt; MARGIN: 0in 0in 0pt 48pt; LINE-HEIGHT: 200%; =
+FONT-FAMILY: "Times New Roman"; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"; mso-style-next: Normal; =
+mso-bidi-font-size: 10.0pt; mso-style-update: auto; tab-stops: right =
+dotted 6.0in
+}
+P.MsoToc6 {
+	FONT-SIZE: 9pt; MARGIN: 0in 0in 0pt 60pt; LINE-HEIGHT: 200%; =
+FONT-FAMILY: "Times New Roman"; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"; mso-style-next: Normal; =
+mso-bidi-font-size: 10.0pt; mso-style-update: auto; tab-stops: right =
+dotted 6.0in
+}
+LI.MsoToc6 {
+	FONT-SIZE: 9pt; MARGIN: 0in 0in 0pt 60pt; LINE-HEIGHT: 200%; =
+FONT-FAMILY: "Times New Roman"; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"; mso-style-next: Normal; =
+mso-bidi-font-size: 10.0pt; mso-style-update: auto; tab-stops: right =
+dotted 6.0in
+}
+DIV.MsoToc6 {
+	FONT-SIZE: 9pt; MARGIN: 0in 0in 0pt 60pt; LINE-HEIGHT: 200%; =
+FONT-FAMILY: "Times New Roman"; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"; mso-style-next: Normal; =
+mso-bidi-font-size: 10.0pt; mso-style-update: auto; tab-stops: right =
+dotted 6.0in
+}
+P.MsoToc7 {
+	FONT-SIZE: 9pt; MARGIN: 0in 0in 0pt 1in; LINE-HEIGHT: 200%; =
+FONT-FAMILY: "Times New Roman"; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"; mso-style-next: Normal; =
+mso-bidi-font-size: 10.0pt; mso-style-update: auto; tab-stops: right =
+dotted 6.0in
+}
+LI.MsoToc7 {
+	FONT-SIZE: 9pt; MARGIN: 0in 0in 0pt 1in; LINE-HEIGHT: 200%; =
+FONT-FAMILY: "Times New Roman"; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"; mso-style-next: Normal; =
+mso-bidi-font-size: 10.0pt; mso-style-update: auto; tab-stops: right =
+dotted 6.0in
+}
+DIV.MsoToc7 {
+	FONT-SIZE: 9pt; MARGIN: 0in 0in 0pt 1in; LINE-HEIGHT: 200%; =
+FONT-FAMILY: "Times New Roman"; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"; mso-style-next: Normal; =
+mso-bidi-font-size: 10.0pt; mso-style-update: auto; tab-stops: right =
+dotted 6.0in
+}
+P.MsoToc8 {
+	FONT-SIZE: 9pt; MARGIN: 0in 0in 0pt 84pt; LINE-HEIGHT: 200%; =
+FONT-FAMILY: "Times New Roman"; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"; mso-style-next: Normal; =
+mso-bidi-font-size: 10.0pt; mso-style-update: auto; tab-stops: right =
+dotted 6.0in
+}
+LI.MsoToc8 {
+	FONT-SIZE: 9pt; MARGIN: 0in 0in 0pt 84pt; LINE-HEIGHT: 200%; =
+FONT-FAMILY: "Times New Roman"; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"; mso-style-next: Normal; =
+mso-bidi-font-size: 10.0pt; mso-style-update: auto; tab-stops: right =
+dotted 6.0in
+}
+DIV.MsoToc8 {
+	FONT-SIZE: 9pt; MARGIN: 0in 0in 0pt 84pt; LINE-HEIGHT: 200%; =
+FONT-FAMILY: "Times New Roman"; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"; mso-style-next: Normal; =
+mso-bidi-font-size: 10.0pt; mso-style-update: auto; tab-stops: right =
+dotted 6.0in
+}
+P.MsoToc9 {
+	FONT-SIZE: 9pt; MARGIN: 0in 0in 0pt 96pt; LINE-HEIGHT: 200%; =
+FONT-FAMILY: "Times New Roman"; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"; mso-style-next: Normal; =
+mso-bidi-font-size: 10.0pt; mso-style-update: auto; tab-stops: right =
+dotted 6.0in
+}
+LI.MsoToc9 {
+	FONT-SIZE: 9pt; MARGIN: 0in 0in 0pt 96pt; LINE-HEIGHT: 200%; =
+FONT-FAMILY: "Times New Roman"; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"; mso-style-next: Normal; =
+mso-bidi-font-size: 10.0pt; mso-style-update: auto; tab-stops: right =
+dotted 6.0in
+}
+DIV.MsoToc9 {
+	FONT-SIZE: 9pt; MARGIN: 0in 0in 0pt 96pt; LINE-HEIGHT: 200%; =
+FONT-FAMILY: "Times New Roman"; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"; mso-style-next: Normal; =
+mso-bidi-font-size: 10.0pt; mso-style-update: auto; tab-stops: right =
+dotted 6.0in
+}
+P.MsoFootnoteText {
+	FONT-SIZE: 10pt; MARGIN: 0in 0in 0pt; FONT-FAMILY: "Times New Roman"; =
+mso-pagination: widow-orphan; mso-fareast-font-family: "Times New Roman"
+}
+LI.MsoFootnoteText {
+	FONT-SIZE: 10pt; MARGIN: 0in 0in 0pt; FONT-FAMILY: "Times New Roman"; =
+mso-pagination: widow-orphan; mso-fareast-font-family: "Times New Roman"
+}
+DIV.MsoFootnoteText {
+	FONT-SIZE: 10pt; MARGIN: 0in 0in 0pt; FONT-FAMILY: "Times New Roman"; =
+mso-pagination: widow-orphan; mso-fareast-font-family: "Times New Roman"
+}
+P.MsoHeader {
+	FONT-SIZE: 12pt; MARGIN: 0in 0in 0pt; LINE-HEIGHT: 200%; FONT-FAMILY: =
+"Times New Roman"; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"; mso-bidi-font-size: 10.0pt; =
+tab-stops: center 3.0in right 6.0in
+}
+LI.MsoHeader {
+	FONT-SIZE: 12pt; MARGIN: 0in 0in 0pt; LINE-HEIGHT: 200%; FONT-FAMILY: =
+"Times New Roman"; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"; mso-bidi-font-size: 10.0pt; =
+tab-stops: center 3.0in right 6.0in
+}
+DIV.MsoHeader {
+	FONT-SIZE: 12pt; MARGIN: 0in 0in 0pt; LINE-HEIGHT: 200%; FONT-FAMILY: =
+"Times New Roman"; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"; mso-bidi-font-size: 10.0pt; =
+tab-stops: center 3.0in right 6.0in
+}
+P.MsoFooter {
+	FONT-SIZE: 12pt; MARGIN: 0in 0in 0pt; LINE-HEIGHT: 200%; FONT-FAMILY: =
+"Times New Roman"; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"; mso-bidi-font-size: 10.0pt; =
+tab-stops: center 3.0in right 6.0in
+}
+LI.MsoFooter {
+	FONT-SIZE: 12pt; MARGIN: 0in 0in 0pt; LINE-HEIGHT: 200%; FONT-FAMILY: =
+"Times New Roman"; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"; mso-bidi-font-size: 10.0pt; =
+tab-stops: center 3.0in right 6.0in
+}
+DIV.MsoFooter {
+	FONT-SIZE: 12pt; MARGIN: 0in 0in 0pt; LINE-HEIGHT: 200%; FONT-FAMILY: =
+"Times New Roman"; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"; mso-bidi-font-size: 10.0pt; =
+tab-stops: center 3.0in right 6.0in
+}
+P.MsoCaption {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; MARGIN: 6pt 0in; FONT-FAMILY: =
+Arial; mso-pagination: widow-orphan; mso-fareast-font-family: "Times New =
+Roman"; mso-style-next: Normal
+}
+LI.MsoCaption {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; MARGIN: 6pt 0in; FONT-FAMILY: =
+Arial; mso-pagination: widow-orphan; mso-fareast-font-family: "Times New =
+Roman"; mso-style-next: Normal
+}
+DIV.MsoCaption {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; MARGIN: 6pt 0in; FONT-FAMILY: =
+Arial; mso-pagination: widow-orphan; mso-fareast-font-family: "Times New =
+Roman"; mso-style-next: Normal
+}
+P.MsoTof {
+	FONT-SIZE: 12pt; MARGIN: 0in 0in 0pt 24pt; TEXT-INDENT: -24pt; =
+LINE-HEIGHT: 200%; FONT-FAMILY: "Times New Roman"; mso-pagination: =
+widow-orphan; mso-fareast-font-family: "Times New Roman"; =
+mso-style-next: Normal; mso-bidi-font-size: 10.0pt; tab-stops: right =
+dotted 6.0in
+}
+LI.MsoTof {
+	FONT-SIZE: 12pt; MARGIN: 0in 0in 0pt 24pt; TEXT-INDENT: -24pt; =
+LINE-HEIGHT: 200%; FONT-FAMILY: "Times New Roman"; mso-pagination: =
+widow-orphan; mso-fareast-font-family: "Times New Roman"; =
+mso-style-next: Normal; mso-bidi-font-size: 10.0pt; tab-stops: right =
+dotted 6.0in
+}
+DIV.MsoTof {
+	FONT-SIZE: 12pt; MARGIN: 0in 0in 0pt 24pt; TEXT-INDENT: -24pt; =
+LINE-HEIGHT: 200%; FONT-FAMILY: "Times New Roman"; mso-pagination: =
+widow-orphan; mso-fareast-font-family: "Times New Roman"; =
+mso-style-next: Normal; mso-bidi-font-size: 10.0pt; tab-stops: right =
+dotted 6.0in
+}
+SPAN.MsoFootnoteReference {
+	VERTICAL-ALIGN: super
+}
+SPAN.MsoEndnoteReference {
+	VERTICAL-ALIGN: super; mso-style-parent: ""
+}
+P.MsoEndnoteText {
+	FONT-SIZE: 8pt; MARGIN: 0in 0in 12pt; TEXT-INDENT: 0.25in; LINE-HEIGHT: =
+10pt; FONT-FAMILY: Garamond; mso-pagination: widow-orphan =
+lines-together; mso-fareast-font-family: "Times New Roman"; =
+mso-bidi-font-size: 10.0pt; mso-bidi-font-family: "Times New Roman"
+}
+LI.MsoEndnoteText {
+	FONT-SIZE: 8pt; MARGIN: 0in 0in 12pt; TEXT-INDENT: 0.25in; LINE-HEIGHT: =
+10pt; FONT-FAMILY: Garamond; mso-pagination: widow-orphan =
+lines-together; mso-fareast-font-family: "Times New Roman"; =
+mso-bidi-font-size: 10.0pt; mso-bidi-font-family: "Times New Roman"
+}
+DIV.MsoEndnoteText {
+	FONT-SIZE: 8pt; MARGIN: 0in 0in 12pt; TEXT-INDENT: 0.25in; LINE-HEIGHT: =
+10pt; FONT-FAMILY: Garamond; mso-pagination: widow-orphan =
+lines-together; mso-fareast-font-family: "Times New Roman"; =
+mso-bidi-font-size: 10.0pt; mso-bidi-font-family: "Times New Roman"
+}
+P.MsoListBullet {
+	FONT-SIZE: 12pt; MARGIN: 0in 0in 0pt 0.25in; TEXT-INDENT: -0.25in; =
+LINE-HEIGHT: 200%; FONT-FAMILY: "Times New Roman"; mso-pagination: =
+widow-orphan; mso-fareast-font-family: "Times New Roman"; =
+mso-bidi-font-size: 10.0pt; mso-style-update: auto; mso-list: l2 level1 =
+lfo9
+}
+LI.MsoListBullet {
+	FONT-SIZE: 12pt; MARGIN: 0in 0in 0pt 0.25in; TEXT-INDENT: -0.25in; =
+LINE-HEIGHT: 200%; FONT-FAMILY: "Times New Roman"; mso-pagination: =
+widow-orphan; mso-fareast-font-family: "Times New Roman"; =
+mso-bidi-font-size: 10.0pt; mso-style-update: auto; mso-list: l2 level1 =
+lfo9
+}
+DIV.MsoListBullet {
+	FONT-SIZE: 12pt; MARGIN: 0in 0in 0pt 0.25in; TEXT-INDENT: -0.25in; =
+LINE-HEIGHT: 200%; FONT-FAMILY: "Times New Roman"; mso-pagination: =
+widow-orphan; mso-fareast-font-family: "Times New Roman"; =
+mso-bidi-font-size: 10.0pt; mso-style-update: auto; mso-list: l2 level1 =
+lfo9
+}
+P.MsoListNumber {
+	FONT-SIZE: 12pt; MARGIN: 0in 0in 0pt 0.25in; TEXT-INDENT: -0.25in; =
+LINE-HEIGHT: 200%; FONT-FAMILY: "Times New Roman"; mso-pagination: =
+widow-orphan; mso-fareast-font-family: "Times New Roman"; =
+mso-bidi-font-size: 10.0pt
+}
+LI.MsoListNumber {
+	FONT-SIZE: 12pt; MARGIN: 0in 0in 0pt 0.25in; TEXT-INDENT: -0.25in; =
+LINE-HEIGHT: 200%; FONT-FAMILY: "Times New Roman"; mso-pagination: =
+widow-orphan; mso-fareast-font-family: "Times New Roman"; =
+mso-bidi-font-size: 10.0pt
+}
+DIV.MsoListNumber {
+	FONT-SIZE: 12pt; MARGIN: 0in 0in 0pt 0.25in; TEXT-INDENT: -0.25in; =
+LINE-HEIGHT: 200%; FONT-FAMILY: "Times New Roman"; mso-pagination: =
+widow-orphan; mso-fareast-font-family: "Times New Roman"; =
+mso-bidi-font-size: 10.0pt
+}
+P.MsoTitle {
+	FONT-WEIGHT: bold; FONT-SIZE: 16pt; MARGIN: 12pt 0in 3pt; LINE-HEIGHT: =
+200%; FONT-FAMILY: Arial; TEXT-ALIGN: center; mso-pagination: =
+widow-orphan; mso-fareast-font-family: "Times New Roman"; =
+mso-bidi-font-size: 10.0pt; mso-font-kerning: 14.0pt; =
+mso-bidi-font-weight: normal; mso-bidi-font-family: "Times New Roman"
+}
+LI.MsoTitle {
+	FONT-WEIGHT: bold; FONT-SIZE: 16pt; MARGIN: 12pt 0in 3pt; LINE-HEIGHT: =
+200%; FONT-FAMILY: Arial; TEXT-ALIGN: center; mso-pagination: =
+widow-orphan; mso-fareast-font-family: "Times New Roman"; =
+mso-bidi-font-size: 10.0pt; mso-font-kerning: 14.0pt; =
+mso-bidi-font-weight: normal; mso-bidi-font-family: "Times New Roman"
+}
+DIV.MsoTitle {
+	FONT-WEIGHT: bold; FONT-SIZE: 16pt; MARGIN: 12pt 0in 3pt; LINE-HEIGHT: =
+200%; FONT-FAMILY: Arial; TEXT-ALIGN: center; mso-pagination: =
+widow-orphan; mso-fareast-font-family: "Times New Roman"; =
+mso-bidi-font-size: 10.0pt; mso-font-kerning: 14.0pt; =
+mso-bidi-font-weight: normal; mso-bidi-font-family: "Times New Roman"
+}
+P.MsoBodyText {
+	FONT-SIZE: 10pt; MARGIN: 0in 0in 0pt; TEXT-INDENT: 0.5in; LINE-HEIGHT: =
+200%; FONT-FAMILY: Arial; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"
+}
+LI.MsoBodyText {
+	FONT-SIZE: 10pt; MARGIN: 0in 0in 0pt; TEXT-INDENT: 0.5in; LINE-HEIGHT: =
+200%; FONT-FAMILY: Arial; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"
+}
+DIV.MsoBodyText {
+	FONT-SIZE: 10pt; MARGIN: 0in 0in 0pt; TEXT-INDENT: 0.5in; LINE-HEIGHT: =
+200%; FONT-FAMILY: Arial; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"
+}
+P.MsoSubtitle {
+	FONT-SIZE: 12pt; MARGIN: 0in 0in 3pt; LINE-HEIGHT: 200%; FONT-FAMILY: =
+Arial; TEXT-ALIGN: center; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"; mso-bidi-font-size: 10.0pt; =
+mso-bidi-font-family: "Times New Roman"
+}
+LI.MsoSubtitle {
+	FONT-SIZE: 12pt; MARGIN: 0in 0in 3pt; LINE-HEIGHT: 200%; FONT-FAMILY: =
+Arial; TEXT-ALIGN: center; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"; mso-bidi-font-size: 10.0pt; =
+mso-bidi-font-family: "Times New Roman"
+}
+DIV.MsoSubtitle {
+	FONT-SIZE: 12pt; MARGIN: 0in 0in 3pt; LINE-HEIGHT: 200%; FONT-FAMILY: =
+Arial; TEXT-ALIGN: center; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"; mso-bidi-font-size: 10.0pt; =
+mso-bidi-font-family: "Times New Roman"
+}
+A:link {
+	COLOR: blue; TEXT-DECORATION: underline; text-underline: single
+}
+SPAN.MsoHyperlink {
+	COLOR: blue; TEXT-DECORATION: underline; text-underline: single
+}
+A:visited {
+	COLOR: purple; TEXT-DECORATION: underline; text-underline: single
+}
+SPAN.MsoHyperlinkFollowed {
+	COLOR: purple; TEXT-DECORATION: underline; text-underline: single
+}
+P.MsoDocumentMap {
+	FONT-SIZE: 12pt; BACKGROUND: navy; MARGIN: 0in 0in 0pt; LINE-HEIGHT: =
+200%; FONT-FAMILY: Tahoma; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"; mso-bidi-font-size: 10.0pt; =
+mso-bidi-font-family: "Times New Roman"
+}
+LI.MsoDocumentMap {
+	FONT-SIZE: 12pt; BACKGROUND: navy; MARGIN: 0in 0in 0pt; LINE-HEIGHT: =
+200%; FONT-FAMILY: Tahoma; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"; mso-bidi-font-size: 10.0pt; =
+mso-bidi-font-family: "Times New Roman"
+}
+DIV.MsoDocumentMap {
+	FONT-SIZE: 12pt; BACKGROUND: navy; MARGIN: 0in 0in 0pt; LINE-HEIGHT: =
+200%; FONT-FAMILY: Tahoma; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"; mso-bidi-font-size: 10.0pt; =
+mso-bidi-font-family: "Times New Roman"
+}
+P.table {
+	FONT-SIZE: 10pt; MARGIN: 3pt 0in; FONT-FAMILY: "Arial Narrow"; =
+mso-pagination: widow-orphan; mso-fareast-font-family: "Times New =
+Roman"; mso-bidi-font-family: "Times New Roman"; mso-style-name: table
+}
+LI.table {
+	FONT-SIZE: 10pt; MARGIN: 3pt 0in; FONT-FAMILY: "Arial Narrow"; =
+mso-pagination: widow-orphan; mso-fareast-font-family: "Times New =
+Roman"; mso-bidi-font-family: "Times New Roman"; mso-style-name: table
+}
+DIV.table {
+	FONT-SIZE: 10pt; MARGIN: 3pt 0in; FONT-FAMILY: "Arial Narrow"; =
+mso-pagination: widow-orphan; mso-fareast-font-family: "Times New =
+Roman"; mso-bidi-font-family: "Times New Roman"; mso-style-name: table
+}
+DIV.Section1 {
+	page: Section1
+}
+OL {
+	MARGIN-BOTTOM: 0in
+}
+UL {
+	MARGIN-BOTTOM: 0in
+}
+</STYLE>
+<!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext=3D"edit" spidmax=3D"2050"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext=3D"edit">
+  <o:idmap v:ext=3D"edit" data=3D"1"/>
+ </o:shapelayout></xml><![endif]--></HEAD>
+<BODY lang=3DEN-US style=3D"tab-interval: .5in" vLink=3Dpurple =
+link=3Dblue>
+<DIV class=3DSection1>
+<H1><A name=3D_Toc448016034></A><A name=3D_Toc448614424><SPAN=20
+style=3D"mso-bookmark: _Toc448016034">Learning Theories and =
+Instructional=20
+Design</SPAN></A></H1>
+<P class=3DMsoToc1><!--[if supportFields]><span =
+style=3D'mso-element:field-begin'></span><span
+style=3D"mso-spacerun: yes">=A0</span>TOC \h \z \t &quot;Heading =
+2,1,Heading
+3,2&quot; <span =
+style=3D'mso-element:field-separator'></span><![endif]--><SPAN=20
+class=3DMsoHyperlink><A=20
+href=3D"http://www.spsu.edu/htc/hughes/papers/interface.htm#_Toc459087694=
+">Introduction<SPAN=20
+style=3D"DISPLAY: none; COLOR: windowtext; TEXT-DECORATION: none; =
+text-underline: none; mso-hide: screen"><SPAN=20
+style=3D"mso-tab-count: 1 dotted">.. </SPAN></SPAN><!--[if =
+supportFields]><span
+style=3D'color:windowtext;display:none;mso-hide:screen;text-decoration:no=
+ne;
+text-underline:none'><span =
+style=3D'mso-element:field-begin'></span></span><span
+style=3D'color:windowtext;display:none;mso-hide:screen;text-decoration:no=
+ne;
+text-underline:none'> PAGEREF _Toc459087694 \h </span><span =
+style=3D'color:windowtext;
+display:none;mso-hide:screen;text-decoration:none;text-underline:none'><s=
+pan
+style=3D'mso-element:field-separator'></span></span><![endif]--><SPAN=20
+style=3D"DISPLAY: none; COLOR: windowtext; TEXT-DECORATION: none; =
+text-underline: none; mso-hide: screen">1</SPAN><SPAN=20
+style=3D"DISPLAY: none; COLOR: windowtext; TEXT-DECORATION: none; =
+text-underline: none; mso-hide: screen"><!--[if gte mso 9]><xml>
+ =
+<w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F00540=
+06F0063003400350039003000380037003600390034000000</w:data>
+</xml><![endif]--></SPAN><!--[if supportFields]><span =
+style=3D'color:windowtext;
+display:none;mso-hide:screen;text-decoration:none;text-underline:none'><s=
+pan
+style=3D'mso-element:field-end'></span></span><![endif]--></A></SPAN><SPA=
+N=20
+style=3D"FONT-WEIGHT: normal; FONT-SIZE: 12pt; TEXT-TRANSFORM: =
+none"><o:p></o:p></SPAN></P>
+<P class=3DMsoToc1><SPAN class=3DMsoHyperlink><A=20
+href=3D"http://www.spsu.edu/htc/hughes/papers/interface.htm#_Toc459087695=
+">A=20
+Survey of Learning Theories<SPAN=20
+style=3D"DISPLAY: none; COLOR: windowtext; TEXT-DECORATION: none; =
+text-underline: none; mso-hide: screen"><SPAN=20
+style=3D"mso-tab-count: 1 dotted">.. </SPAN></SPAN><!--[if =
+supportFields]><span
+style=3D'color:windowtext;display:none;mso-hide:screen;text-decoration:no=
+ne;
+text-underline:none'><span =
+style=3D'mso-element:field-begin'></span></span><span
+style=3D'color:windowtext;display:none;mso-hide:screen;text-decoration:no=
+ne;
+text-underline:none'> PAGEREF _Toc459087695 \h </span><span =
+style=3D'color:windowtext;
+display:none;mso-hide:screen;text-decoration:none;text-underline:none'><s=
+pan
+style=3D'mso-element:field-separator'></span></span><![endif]--><SPAN=20
+style=3D"DISPLAY: none; COLOR: windowtext; TEXT-DECORATION: none; =
+text-underline: none; mso-hide: screen">1</SPAN><SPAN=20
+style=3D"DISPLAY: none; COLOR: windowtext; TEXT-DECORATION: none; =
+text-underline: none; mso-hide: screen"><!--[if gte mso 9]><xml>
+ =
+<w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F00540=
+06F0063003400350039003000380037003600390035000000</w:data>
+</xml><![endif]--></SPAN><!--[if supportFields]><span =
+style=3D'color:windowtext;
+display:none;mso-hide:screen;text-decoration:none;text-underline:none'><s=
+pan
+style=3D'mso-element:field-end'></span></span><![endif]--></A></SPAN><SPA=
+N=20
+style=3D"FONT-WEIGHT: normal; FONT-SIZE: 12pt; TEXT-TRANSFORM: =
+none"><o:p></o:p></SPAN></P>
+<P class=3DMsoToc2><SPAN class=3DMsoHyperlink><A=20
+href=3D"http://www.spsu.edu/htc/hughes/papers/interface.htm#_Toc459087696=
+">Behaviorist=20
+theories<SPAN=20
+style=3D"DISPLAY: none; COLOR: windowtext; TEXT-DECORATION: none; =
+text-underline: none; mso-hide: screen"><SPAN=20
+style=3D"mso-tab-count: 1 dotted">. </SPAN></SPAN><!--[if =
+supportFields]><span
+style=3D'color:windowtext;display:none;mso-hide:screen;text-decoration:no=
+ne;
+text-underline:none'><span =
+style=3D'mso-element:field-begin'></span></span><span
+style=3D'color:windowtext;display:none;mso-hide:screen;text-decoration:no=
+ne;
+text-underline:none'> PAGEREF _Toc459087696 \h </span><span =
+style=3D'color:windowtext;
+display:none;mso-hide:screen;text-decoration:none;text-underline:none'><s=
+pan
+style=3D'mso-element:field-separator'></span></span><![endif]--><SPAN=20
+style=3D"DISPLAY: none; COLOR: windowtext; TEXT-DECORATION: none; =
+text-underline: none; mso-hide: screen">3</SPAN><SPAN=20
+style=3D"DISPLAY: none; COLOR: windowtext; TEXT-DECORATION: none; =
+text-underline: none; mso-hide: screen"><!--[if gte mso 9]><xml>
+ =
+<w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F00540=
+06F0063003400350039003000380037003600390036000000</w:data>
+</xml><![endif]--></SPAN><!--[if supportFields]><span =
+style=3D'color:windowtext;
+display:none;mso-hide:screen;text-decoration:none;text-underline:none'><s=
+pan
+style=3D'mso-element:field-end'></span></span><![endif]--></A></SPAN><SPA=
+N=20
+style=3D"FONT-SIZE: 12pt; FONT-VARIANT: normal"><o:p></o:p></SPAN></P>
+<P class=3DMsoToc2><SPAN class=3DMsoHyperlink><A=20
+href=3D"http://www.spsu.edu/htc/hughes/papers/interface.htm#_Toc459087697=
+">Cognitive=20
+theories<SPAN=20
+style=3D"DISPLAY: none; COLOR: windowtext; TEXT-DECORATION: none; =
+text-underline: none; mso-hide: screen"><SPAN=20
+style=3D"mso-tab-count: 1 dotted">. </SPAN></SPAN><!--[if =
+supportFields]><span
+style=3D'color:windowtext;display:none;mso-hide:screen;text-decoration:no=
+ne;
+text-underline:none'><span =
+style=3D'mso-element:field-begin'></span></span><span
+style=3D'color:windowtext;display:none;mso-hide:screen;text-decoration:no=
+ne;
+text-underline:none'> PAGEREF _Toc459087697 \h </span><span =
+style=3D'color:windowtext;
+display:none;mso-hide:screen;text-decoration:none;text-underline:none'><s=
+pan
+style=3D'mso-element:field-separator'></span></span><![endif]--><SPAN=20
+style=3D"DISPLAY: none; COLOR: windowtext; TEXT-DECORATION: none; =
+text-underline: none; mso-hide: screen">3</SPAN><SPAN=20
+style=3D"DISPLAY: none; COLOR: windowtext; TEXT-DECORATION: none; =
+text-underline: none; mso-hide: screen"><!--[if gte mso 9]><xml>
+ =
+<w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F00540=
+06F0063003400350039003000380037003600390037000000</w:data>
+</xml><![endif]--></SPAN><!--[if supportFields]><span =
+style=3D'color:windowtext;
+display:none;mso-hide:screen;text-decoration:none;text-underline:none'><s=
+pan
+style=3D'mso-element:field-end'></span></span><![endif]--></A></SPAN><SPA=
+N=20
+style=3D"FONT-SIZE: 12pt; FONT-VARIANT: normal"><o:p></o:p></SPAN></P>
+<P class=3DMsoToc2><SPAN class=3DMsoHyperlink><A=20
+href=3D"http://www.spsu.edu/htc/hughes/papers/interface.htm#_Toc459087698=
+">Humanist=20
+theories<SPAN=20
+style=3D"DISPLAY: none; COLOR: windowtext; TEXT-DECORATION: none; =
+text-underline: none; mso-hide: screen"><SPAN=20
+style=3D"mso-tab-count: 1 dotted">. </SPAN></SPAN><!--[if =
+supportFields]><span
+style=3D'color:windowtext;display:none;mso-hide:screen;text-decoration:no=
+ne;
+text-underline:none'><span =
+style=3D'mso-element:field-begin'></span></span><span
+style=3D'color:windowtext;display:none;mso-hide:screen;text-decoration:no=
+ne;
+text-underline:none'> PAGEREF _Toc459087698 \h </span><span =
+style=3D'color:windowtext;
+display:none;mso-hide:screen;text-decoration:none;text-underline:none'><s=
+pan
+style=3D'mso-element:field-separator'></span></span><![endif]--><SPAN=20
+style=3D"DISPLAY: none; COLOR: windowtext; TEXT-DECORATION: none; =
+text-underline: none; mso-hide: screen">3</SPAN><SPAN=20
+style=3D"DISPLAY: none; COLOR: windowtext; TEXT-DECORATION: none; =
+text-underline: none; mso-hide: screen"><!--[if gte mso 9]><xml>
+ =
+<w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F00540=
+06F0063003400350039003000380037003600390038000000</w:data>
+</xml><![endif]--></SPAN><!--[if supportFields]><span =
+style=3D'color:windowtext;
+display:none;mso-hide:screen;text-decoration:none;text-underline:none'><s=
+pan
+style=3D'mso-element:field-end'></span></span><![endif]--></A></SPAN><SPA=
+N=20
+style=3D"FONT-SIZE: 12pt; FONT-VARIANT: normal"><o:p></o:p></SPAN></P>
+<P class=3DMsoToc2><SPAN class=3DMsoHyperlink><A=20
+href=3D"http://www.spsu.edu/htc/hughes/papers/interface.htm#_Toc459087699=
+">Social/situated=20
+learning theories<SPAN=20
+style=3D"DISPLAY: none; COLOR: windowtext; TEXT-DECORATION: none; =
+text-underline: none; mso-hide: screen"><SPAN=20
+style=3D"mso-tab-count: 1 dotted">. </SPAN></SPAN><!--[if =
+supportFields]><span
+style=3D'color:windowtext;display:none;mso-hide:screen;text-decoration:no=
+ne;
+text-underline:none'><span =
+style=3D'mso-element:field-begin'></span></span><span
+style=3D'color:windowtext;display:none;mso-hide:screen;text-decoration:no=
+ne;
+text-underline:none'> PAGEREF _Toc459087699 \h </span><span =
+style=3D'color:windowtext;
+display:none;mso-hide:screen;text-decoration:none;text-underline:none'><s=
+pan
+style=3D'mso-element:field-separator'></span></span><![endif]--><SPAN=20
+style=3D"DISPLAY: none; COLOR: windowtext; TEXT-DECORATION: none; =
+text-underline: none; mso-hide: screen">3</SPAN><SPAN=20
+style=3D"DISPLAY: none; COLOR: windowtext; TEXT-DECORATION: none; =
+text-underline: none; mso-hide: screen"><!--[if gte mso 9]><xml>
+ =
+<w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F00540=
+06F0063003400350039003000380037003600390039000000</w:data>
+</xml><![endif]--></SPAN><!--[if supportFields]><span =
+style=3D'color:windowtext;
+display:none;mso-hide:screen;text-decoration:none;text-underline:none'><s=
+pan
+style=3D'mso-element:field-end'></span></span><![endif]--></A></SPAN><SPA=
+N=20
+style=3D"FONT-SIZE: 12pt; FONT-VARIANT: normal"><o:p></o:p></SPAN></P>
+<P class=3DMsoToc2><SPAN class=3DMsoHyperlink><A=20
+href=3D"http://www.spsu.edu/htc/hughes/papers/interface.htm#_Toc459087700=
+">Cybernetic=20
+theories<SPAN=20
+style=3D"DISPLAY: none; COLOR: windowtext; TEXT-DECORATION: none; =
+text-underline: none; mso-hide: screen"><SPAN=20
+style=3D"mso-tab-count: 1 dotted">. </SPAN></SPAN><!--[if =
+supportFields]><span
+style=3D'color:windowtext;display:none;mso-hide:screen;text-decoration:no=
+ne;
+text-underline:none'><span =
+style=3D'mso-element:field-begin'></span></span><span
+style=3D'color:windowtext;display:none;mso-hide:screen;text-decoration:no=
+ne;
+text-underline:none'> PAGEREF _Toc459087700 \h </span><span =
+style=3D'color:windowtext;
+display:none;mso-hide:screen;text-decoration:none;text-underline:none'><s=
+pan
+style=3D'mso-element:field-separator'></span></span><![endif]--><SPAN=20
+style=3D"DISPLAY: none; COLOR: windowtext; TEXT-DECORATION: none; =
+text-underline: none; mso-hide: screen">4</SPAN><SPAN=20
+style=3D"DISPLAY: none; COLOR: windowtext; TEXT-DECORATION: none; =
+text-underline: none; mso-hide: screen"><!--[if gte mso 9]><xml>
+ =
+<w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F00540=
+06F0063003400350039003000380037003700300030000000</w:data>
+</xml><![endif]--></SPAN><!--[if supportFields]><span =
+style=3D'color:windowtext;
+display:none;mso-hide:screen;text-decoration:none;text-underline:none'><s=
+pan
+style=3D'mso-element:field-end'></span></span><![endif]--></A></SPAN><SPA=
+N=20
+style=3D"FONT-SIZE: 12pt; FONT-VARIANT: normal"><o:p></o:p></SPAN></P>
+<P class=3DMsoToc1><SPAN class=3DMsoHyperlink><A=20
+href=3D"http://www.spsu.edu/htc/hughes/papers/interface.htm#_Toc459087701=
+">Models=20
+of Instructional Design<SPAN=20
+style=3D"DISPLAY: none; COLOR: windowtext; TEXT-DECORATION: none; =
+text-underline: none; mso-hide: screen"><SPAN=20
+style=3D"mso-tab-count: 1 dotted">.. </SPAN></SPAN><!--[if =
+supportFields]><span
+style=3D'color:windowtext;display:none;mso-hide:screen;text-decoration:no=
+ne;
+text-underline:none'><span =
+style=3D'mso-element:field-begin'></span></span><span
+style=3D'color:windowtext;display:none;mso-hide:screen;text-decoration:no=
+ne;
+text-underline:none'> PAGEREF _Toc459087701 \h </span><span =
+style=3D'color:windowtext;
+display:none;mso-hide:screen;text-decoration:none;text-underline:none'><s=
+pan
+style=3D'mso-element:field-separator'></span></span><![endif]--><SPAN=20
+style=3D"DISPLAY: none; COLOR: windowtext; TEXT-DECORATION: none; =
+text-underline: none; mso-hide: screen">4</SPAN><SPAN=20
+style=3D"DISPLAY: none; COLOR: windowtext; TEXT-DECORATION: none; =
+text-underline: none; mso-hide: screen"><!--[if gte mso 9]><xml>
+ =
+<w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F00540=
+06F0063003400350039003000380037003700300031000000</w:data>
+</xml><![endif]--></SPAN><!--[if supportFields]><span =
+style=3D'color:windowtext;
+display:none;mso-hide:screen;text-decoration:none;text-underline:none'><s=
+pan
+style=3D'mso-element:field-end'></span></span><![endif]--></A></SPAN><SPA=
+N=20
+style=3D"FONT-WEIGHT: normal; FONT-SIZE: 12pt; TEXT-TRANSFORM: =
+none"><o:p></o:p></SPAN></P>
+<P class=3DMsoToc2><SPAN class=3DMsoHyperlink><A=20
+href=3D"http://www.spsu.edu/htc/hughes/papers/interface.htm#_Toc459087702=
+">Instructional=20
+system design (ISD)<SPAN=20
+style=3D"DISPLAY: none; COLOR: windowtext; TEXT-DECORATION: none; =
+text-underline: none; mso-hide: screen"><SPAN=20
+style=3D"mso-tab-count: 1 dotted"> </SPAN></SPAN><!--[if =
+supportFields]><span
+style=3D'color:windowtext;display:none;mso-hide:screen;text-decoration:no=
+ne;
+text-underline:none'><span =
+style=3D'mso-element:field-begin'></span></span><span
+style=3D'color:windowtext;display:none;mso-hide:screen;text-decoration:no=
+ne;
+text-underline:none'> PAGEREF _Toc459087702 \h </span><span =
+style=3D'color:windowtext;
+display:none;mso-hide:screen;text-decoration:none;text-underline:none'><s=
+pan
+style=3D'mso-element:field-separator'></span></span><![endif]--><SPAN=20
+style=3D"DISPLAY: none; COLOR: windowtext; TEXT-DECORATION: none; =
+text-underline: none; mso-hide: screen">6</SPAN><SPAN=20
+style=3D"DISPLAY: none; COLOR: windowtext; TEXT-DECORATION: none; =
+text-underline: none; mso-hide: screen"><!--[if gte mso 9]><xml>
+ =
+<w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F00540=
+06F0063003400350039003000380037003700300032000000</w:data>
+</xml><![endif]--></SPAN><!--[if supportFields]><span =
+style=3D'color:windowtext;
+display:none;mso-hide:screen;text-decoration:none;text-underline:none'><s=
+pan
+style=3D'mso-element:field-end'></span></span><![endif]--></A></SPAN><SPA=
+N=20
+style=3D"FONT-SIZE: 12pt; FONT-VARIANT: normal"><o:p></o:p></SPAN></P>
+<P class=3DMsoToc2><SPAN class=3DMsoHyperlink><A=20
+href=3D"http://www.spsu.edu/htc/hughes/papers/interface.htm#_Toc459087703=
+">Gagn=E9=92s=20
+instructional events<SPAN=20
+style=3D"DISPLAY: none; COLOR: windowtext; TEXT-DECORATION: none; =
+text-underline: none; mso-hide: screen"><SPAN=20
+style=3D"mso-tab-count: 1 dotted">. </SPAN></SPAN><!--[if =
+supportFields]><span
+style=3D'color:windowtext;display:none;mso-hide:screen;text-decoration:no=
+ne;
+text-underline:none'><span =
+style=3D'mso-element:field-begin'></span></span><span
+style=3D'color:windowtext;display:none;mso-hide:screen;text-decoration:no=
+ne;
+text-underline:none'> PAGEREF _Toc459087703 \h </span><span =
+style=3D'color:windowtext;
+display:none;mso-hide:screen;text-decoration:none;text-underline:none'><s=
+pan
+style=3D'mso-element:field-separator'></span></span><![endif]--><SPAN=20
+style=3D"DISPLAY: none; COLOR: windowtext; TEXT-DECORATION: none; =
+text-underline: none; mso-hide: screen">6</SPAN><SPAN=20
+style=3D"DISPLAY: none; COLOR: windowtext; TEXT-DECORATION: none; =
+text-underline: none; mso-hide: screen"><!--[if gte mso 9]><xml>
+ =
+<w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F00540=
+06F0063003400350039003000380037003700300033000000</w:data>
+</xml><![endif]--></SPAN><!--[if supportFields]><span =
+style=3D'color:windowtext;
+display:none;mso-hide:screen;text-decoration:none;text-underline:none'><s=
+pan
+style=3D'mso-element:field-end'></span></span><![endif]--></A></SPAN><SPA=
+N=20
+style=3D"FONT-SIZE: 12pt; FONT-VARIANT: normal"><o:p></o:p></SPAN></P>
+<P class=3DMsoToc2><SPAN class=3DMsoHyperlink><A=20
+href=3D"http://www.spsu.edu/htc/hughes/papers/interface.htm#_Toc459087704=
+">Rapid=20
+prototyping<SPAN=20
+style=3D"DISPLAY: none; COLOR: windowtext; TEXT-DECORATION: none; =
+text-underline: none; mso-hide: screen"><SPAN=20
+style=3D"mso-tab-count: 1 dotted">. </SPAN></SPAN><!--[if =
+supportFields]><span
+style=3D'color:windowtext;display:none;mso-hide:screen;text-decoration:no=
+ne;
+text-underline:none'><span =
+style=3D'mso-element:field-begin'></span></span><span
+style=3D'color:windowtext;display:none;mso-hide:screen;text-decoration:no=
+ne;
+text-underline:none'> PAGEREF _Toc459087704 \h </span><span =
+style=3D'color:windowtext;
+display:none;mso-hide:screen;text-decoration:none;text-underline:none'><s=
+pan
+style=3D'mso-element:field-separator'></span></span><![endif]--><SPAN=20
+style=3D"DISPLAY: none; COLOR: windowtext; TEXT-DECORATION: none; =
+text-underline: none; mso-hide: screen">7</SPAN><SPAN=20
+style=3D"DISPLAY: none; COLOR: windowtext; TEXT-DECORATION: none; =
+text-underline: none; mso-hide: screen"><!--[if gte mso 9]><xml>
+ =
+<w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F00540=
+06F0063003400350039003000380037003700300034000000</w:data>
+</xml><![endif]--></SPAN><!--[if supportFields]><span =
+style=3D'color:windowtext;
+display:none;mso-hide:screen;text-decoration:none;text-underline:none'><s=
+pan
+style=3D'mso-element:field-end'></span></span><![endif]--></A></SPAN><SPA=
+N=20
+style=3D"FONT-SIZE: 12pt; FONT-VARIANT: normal"><o:p></o:p></SPAN></P>
+<P class=3DMsoToc2><SPAN class=3DMsoHyperlink><A=20
+href=3D"http://www.spsu.edu/htc/hughes/papers/interface.htm#_Toc459087705=
+">Situated=20
+Instruction Model<SPAN=20
+style=3D"DISPLAY: none; COLOR: windowtext; TEXT-DECORATION: none; =
+text-underline: none; mso-hide: screen"><SPAN=20
+style=3D"mso-tab-count: 1 dotted">. </SPAN></SPAN><!--[if =
+supportFields]><span
+style=3D'color:windowtext;display:none;mso-hide:screen;text-decoration:no=
+ne;
+text-underline:none'><span =
+style=3D'mso-element:field-begin'></span></span><span
+style=3D'color:windowtext;display:none;mso-hide:screen;text-decoration:no=
+ne;
+text-underline:none'> PAGEREF _Toc459087705 \h </span><span =
+style=3D'color:windowtext;
+display:none;mso-hide:screen;text-decoration:none;text-underline:none'><s=
+pan
+style=3D'mso-element:field-separator'></span></span><![endif]--><SPAN=20
+style=3D"DISPLAY: none; COLOR: windowtext; TEXT-DECORATION: none; =
+text-underline: none; mso-hide: screen">8</SPAN><SPAN=20
+style=3D"DISPLAY: none; COLOR: windowtext; TEXT-DECORATION: none; =
+text-underline: none; mso-hide: screen"><!--[if gte mso 9]><xml>
+ =
+<w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F00540=
+06F0063003400350039003000380037003700300035000000</w:data>
+</xml><![endif]--></SPAN><!--[if supportFields]><span =
+style=3D'color:windowtext;
+display:none;mso-hide:screen;text-decoration:none;text-underline:none'><s=
+pan
+style=3D'mso-element:field-end'></span></span><![endif]--></A></SPAN><SPA=
+N=20
+style=3D"FONT-SIZE: 12pt; FONT-VARIANT: normal"><o:p></o:p></SPAN></P>
+<P class=3DMsoToc1><SPAN class=3DMsoHyperlink><A=20
+href=3D"http://www.spsu.edu/htc/hughes/papers/interface.htm#_Toc459087706=
+">Summary<SPAN=20
+style=3D"DISPLAY: none; COLOR: windowtext; TEXT-DECORATION: none; =
+text-underline: none; mso-hide: screen"><SPAN=20
+style=3D"mso-tab-count: 1 dotted">.. </SPAN></SPAN><!--[if =
+supportFields]><span
+style=3D'color:windowtext;display:none;mso-hide:screen;text-decoration:no=
+ne;
+text-underline:none'><span =
+style=3D'mso-element:field-begin'></span></span><span
+style=3D'color:windowtext;display:none;mso-hide:screen;text-decoration:no=
+ne;
+text-underline:none'> PAGEREF _Toc459087706 \h </span><span =
+style=3D'color:windowtext;
+display:none;mso-hide:screen;text-decoration:none;text-underline:none'><s=
+pan
+style=3D'mso-element:field-separator'></span></span><![endif]--><SPAN=20
+style=3D"DISPLAY: none; COLOR: windowtext; TEXT-DECORATION: none; =
+text-underline: none; mso-hide: screen">10</SPAN><SPAN=20
+style=3D"DISPLAY: none; COLOR: windowtext; TEXT-DECORATION: none; =
+text-underline: none; mso-hide: screen"><!--[if gte mso 9]><xml>
+ =
+<w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F00540=
+06F0063003400350039003000380037003700300036000000</w:data>
+</xml><![endif]--></SPAN><!--[if supportFields]><span =
+style=3D'color:windowtext;
+display:none;mso-hide:screen;text-decoration:none;text-underline:none'><s=
+pan
+style=3D'mso-element:field-end'></span></span><![endif]--></A></SPAN><SPA=
+N=20
+style=3D"FONT-WEIGHT: normal; FONT-SIZE: 12pt; TEXT-TRANSFORM: =
+none"><o:p></o:p></SPAN></P>
+<P class=3DMsoNormal><!--[if supportFields]><span =
+style=3D'mso-element:field-end'></span><![endif]--><![if =
+!supportEmptyParas]><![endif]>&nbsp;<o:p></o:p></P>
+<H2><A name=3D_Toc448016036></A><A name=3D_Toc448614426></A><A=20
+name=3D_Toc459087694><SPAN style=3D"mso-bookmark: _Toc448614426"><SPAN=20
+style=3D"mso-bookmark: =
+_Toc448016036">Introduction</SPAN></SPAN></A></H2>
+<P class=3DMsoBodyText>The Association for Educational Communication and =
+
+Technology (1994) lists design as the first of the five domains of =
+educational=20
+technology. Indeed, much of what we do in the field of instructional =
+technology=20
+deals with how to design effective instruction (the rest being divided =
+among=20
+development, utilization, management, and evaluation). But design is not =
+
+conceived in a vacuum; rather, instructional designers=92 choices of how =
+best to=20
+design instruction are greatly influenced by their beliefs about how =
+people=20
+learn. Accordingly, our approaches to designing instruction have evolved =
+largely=20
+in parallel with the developments in our learning theories. In this =
+paper I=20
+examine learning theories and how they influence the choices =
+instructional=20
+designers make. First, I identify the learning theories and =
+epistemologies that=20
+have been influential within educational technology and then relate them =
+to the=20
+instructional design models that have most influenced the practice of=20
+instructional design. Finally, I describe my own approach to =
+instructional=20
+design in the context of these developmental influences.</P>
+<H2><A name=3D_Toc448016037></A><A name=3D_Toc448614427></A><A=20
+name=3D_Toc459087695><SPAN style=3D"mso-bookmark: _Toc448614427"><SPAN=20
+style=3D"mso-bookmark: _Toc448016037">A Survey of Learning=20
+Theories</SPAN></SPAN></A></H2>
+<P class=3DMsoBodyText>=93A learning theory is a systematic integrated =
+outlook to=20
+the nature of the process whereby people relate to their environments in =
+such a=20
+way as to enhance their ability to use both themselves and their =
+environments=20
+more effectively=94(Bigge, 1982, p.3). Many such theories have emerged =
+over the=20
+last several decades=97so many, in fact, that one needs a way of =
+categorizing them=20
+into manageable groups. Three such categorizations are provided by Bigge =
+(1982),=20
+Merriam &amp; Caffarella (1991), and Romiszowsk (1986).</P>
+<P class=3DMsoBodyText>Bigge (1982) provides the simplest grouping, =
+classifying=20
+theories into one of two families: (1) S-R (stimulus-response) =
+conditional=20
+theories of the behaviorist family and (2) cognitive theories of the=20
+Gestalt-field family. This simple dichotomy summarizes two ways =
+instructional=20
+designers have traditionally viewed the learner: learner as <I=20
+style=3D"mso-bidi-font-style: normal">doer</I> and learner as <I=20
+style=3D"mso-bidi-font-style: normal">thinker</I>. </P>
+<P class=3DMsoBodyText>Merriam and Caffarella, (1991) classify learning =
+theories=20
+into four orientations: (1) behaviorist, (2) cognitivist, (3) humanist, =
+and (4)=20
+social learning. Romiszowski (1986) proposes a similar model, but uses =
+the=20
+following categories: behaviorist, cognitive, developmental, humanist, =
+and=20
+cybernetic. Table 1 builds on a table from Merriam and Caffarella to =
+include=20
+Romiszowski's cybernetic orientation as well as theorists not mentioned =
+in the=20
+original table. I have also expanded Merriam=92s and Caffarella=92s =
+category of=20
+social learning to include <I>situated learning</I> as well.</P>
+<P class=3DMsoCaption><A name=3D_Ref447763837></A><A =
+name=3D_Toc448614498><SPAN=20
+style=3D"mso-bookmark: _Ref447763837">Table </SPAN>1<BR>Five =
+orientations to=20
+learning theories</A></P>
+<TABLE style=3D"BORDER-COLLAPSE: collapse; mso-padding-alt: 0in 5.4pt =
+0in 5.4pt"=20
+cellSpacing=3D0 cellPadding=3D0 border=3D0>
+  <TBODY>
+  <TR>
+    <TD=20
+    style=3D"BORDER-RIGHT: medium none; PADDING-RIGHT: 5.4pt; =
+BORDER-TOP: windowtext 0.75pt solid; PADDING-LEFT: 5.4pt; =
+PADDING-BOTTOM: 0in; BORDER-LEFT: medium none; WIDTH: 54.9pt; =
+PADDING-TOP: 0in; BORDER-BOTTOM: windowtext 0.75pt solid"=20
+    vAlign=3Dtop width=3D73>
+      <P class=3Dtable><![if !supportEmptyParas]><![endif]>&nbsp;<B=20
+      style=3D"mso-bidi-font-weight: normal"><o:p></o:p></B></P></TD>
+    <TD=20
+    style=3D"BORDER-RIGHT: medium none; PADDING-RIGHT: 5.4pt; =
+BORDER-TOP: windowtext 0.75pt solid; PADDING-LEFT: 5.4pt; =
+PADDING-BOTTOM: 0in; BORDER-LEFT: medium none; WIDTH: 75.4pt; =
+PADDING-TOP: 0in; BORDER-BOTTOM: windowtext 0.75pt solid"=20
+    vAlign=3Dtop width=3D101>
+      <P class=3Dtable><B=20
+      style=3D"mso-bidi-font-weight: =
+normal">Behaviorist<o:p></o:p></B></P></TD>
+    <TD=20
+    style=3D"BORDER-RIGHT: medium none; PADDING-RIGHT: 5.4pt; =
+BORDER-TOP: windowtext 0.75pt solid; PADDING-LEFT: 5.4pt; =
+PADDING-BOTTOM: 0in; BORDER-LEFT: medium none; WIDTH: 75.4pt; =
+PADDING-TOP: 0in; BORDER-BOTTOM: windowtext 0.75pt solid"=20
+    vAlign=3Dtop width=3D101>
+      <P class=3Dtable><B=20
+      style=3D"mso-bidi-font-weight: =
+normal">Cognitivist<o:p></o:p></B></P></TD>
+    <TD=20
+    style=3D"BORDER-RIGHT: medium none; PADDING-RIGHT: 5.4pt; =
+BORDER-TOP: windowtext 0.75pt solid; PADDING-LEFT: 5.4pt; =
+PADDING-BOTTOM: 0in; BORDER-LEFT: medium none; WIDTH: 75.4pt; =
+PADDING-TOP: 0in; BORDER-BOTTOM: windowtext 0.75pt solid"=20
+    vAlign=3Dtop width=3D101>
+      <P class=3Dtable><B=20
+      style=3D"mso-bidi-font-weight: =
+normal">Humanist<o:p></o:p></B></P></TD>
+    <TD=20
+    style=3D"BORDER-RIGHT: medium none; PADDING-RIGHT: 5.4pt; =
+BORDER-TOP: windowtext 0.75pt solid; PADDING-LEFT: 5.4pt; =
+PADDING-BOTTOM: 0in; BORDER-LEFT: medium none; WIDTH: 75.4pt; =
+PADDING-TOP: 0in; BORDER-BOTTOM: windowtext 0.75pt solid"=20
+    vAlign=3Dtop width=3D101>
+      <P class=3Dtable><B style=3D"mso-bidi-font-weight: =
+normal">Social/Situated=20
+      Learning<o:p></o:p></B></P></TD>
+    <TD=20
+    style=3D"BORDER-RIGHT: medium none; PADDING-RIGHT: 5.4pt; =
+BORDER-TOP: windowtext 0.75pt solid; PADDING-LEFT: 5.4pt; =
+PADDING-BOTTOM: 0in; BORDER-LEFT: medium none; WIDTH: 75.4pt; =
+PADDING-TOP: 0in; BORDER-BOTTOM: windowtext 0.75pt solid"=20
+    vAlign=3Dtop width=3D101>
+      <P class=3Dtable><B=20
+      style=3D"mso-bidi-font-weight: =
+normal">Cybernetic<o:p></o:p></B></P></TD></TR>
+  <TR>
+    <TD=20
+    style=3D"PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: =
+0in; WIDTH: 54.9pt; PADDING-TOP: 0in"=20
+    vAlign=3Dtop width=3D73>
+      <P class=3Dtable><B=20
+      style=3D"mso-bidi-font-weight: =
+normal">Theorists<o:p></o:p></B></P></TD>
+    <TD=20
+    style=3D"PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: =
+0in; WIDTH: 75.4pt; PADDING-TOP: 0in"=20
+    vAlign=3Dtop width=3D101>
+      <P class=3Dtable>Thorndike, Pavlov, Watson, Guthrie, Hull, Tolman, =
+and=20
+      Skinner.</P></TD>
+    <TD=20
+    style=3D"PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: =
+0in; WIDTH: 75.4pt; PADDING-TOP: 0in"=20
+    vAlign=3Dtop width=3D101>
+      <P class=3Dtable>Koffka, Kohler, Wertheimer, Lewin, Piaget, =
+Ausubel, Bruner,=20
+      Reigeluth, and Gagn=E9</P>
+      <P=20
+class=3Dtable><![if =
+!supportEmptyParas]><![endif]>&nbsp;<o:p></o:p></P></TD>
+    <TD=20
+    style=3D"PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: =
+0in; WIDTH: 75.4pt; PADDING-TOP: 0in"=20
+    vAlign=3Dtop width=3D101>
+      <P class=3Dtable>Rousseau, Pestalozzi, Froebel, Neill, Maslow, and =
+
+    Rogers</P></TD>
+    <TD=20
+    style=3D"PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: =
+0in; WIDTH: 75.4pt; PADDING-TOP: 0in"=20
+    vAlign=3Dtop width=3D101>
+      <P class=3Dtable>Bandura; Rotter; Vigotsky; Argyris; Lave &amp; =
+Wenger;=20
+      Brandsford; Brown, Collins &amp; Duguid</P></TD>
+    <TD=20
+    style=3D"PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: =
+0in; WIDTH: 75.4pt; PADDING-TOP: 0in"=20
+    vAlign=3Dtop width=3D101>
+      <P class=3Dtable>Weiner, Shannon, Miller, Gibson, Landa, and =
+Pask</P></TD></TR>
+  <TR>
+    <TD=20
+    style=3D"PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: =
+0in; WIDTH: 54.9pt; PADDING-TOP: 0in"=20
+    vAlign=3Dtop width=3D73>
+      <P class=3Dtable><B style=3D"mso-bidi-font-weight: normal">View of =
+the=20
+      Learning Process<o:p></o:p></B></P></TD>
+    <TD=20
+    style=3D"PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: =
+0in; WIDTH: 75.4pt; PADDING-TOP: 0in"=20
+    vAlign=3Dtop width=3D101>
+      <P class=3Dtable>Change in behavior</P></TD>
+    <TD=20
+    style=3D"PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: =
+0in; WIDTH: 75.4pt; PADDING-TOP: 0in"=20
+    vAlign=3Dtop width=3D101>
+      <P class=3Dtable>Defined by internal mental process (including =
+insight,=20
+      information processing, memory, and perception)</P>
+      <P=20
+class=3Dtable><![if =
+!supportEmptyParas]><![endif]>&nbsp;<o:p></o:p></P></TD>
+    <TD=20
+    style=3D"PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: =
+0in; WIDTH: 75.4pt; PADDING-TOP: 0in"=20
+    vAlign=3Dtop width=3D101>
+      <P class=3Dtable>A personal act to fulfill potential</P></TD>
+    <TD=20
+    style=3D"PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: =
+0in; WIDTH: 75.4pt; PADDING-TOP: 0in"=20
+    vAlign=3Dtop width=3D101>
+      <P class=3Dtable>Interaction with and observation of others in a =
+social=20
+      context</P></TD>
+    <TD=20
+    style=3D"PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: =
+0in; WIDTH: 75.4pt; PADDING-TOP: 0in"=20
+    vAlign=3Dtop width=3D101>
+      <P class=3Dtable>Systemic and defined by capacities of memory, =
+throughput,=20
+      and feedback loops. Learner is =91wired=92 into the =
+environment.</P>
+      <P=20
+  class=3Dtable><![if =
+!supportEmptyParas]><![endif]>&nbsp;<o:p></o:p></P></TD></TR>
+  <TR>
+    <TD=20
+    style=3D"PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: =
+0in; WIDTH: 54.9pt; PADDING-TOP: 0in"=20
+    vAlign=3Dtop width=3D73>
+      <P class=3Dtable><B style=3D"mso-bidi-font-weight: normal">Locus =
+of=20
+      Learning<o:p></o:p></B></P></TD>
+    <TD=20
+    style=3D"PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: =
+0in; WIDTH: 75.4pt; PADDING-TOP: 0in"=20
+    vAlign=3Dtop width=3D101>
+      <P class=3Dtable>Stimuli in the external environment</P></TD>
+    <TD=20
+    style=3D"PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: =
+0in; WIDTH: 75.4pt; PADDING-TOP: 0in"=20
+    vAlign=3Dtop width=3D101>
+      <P class=3Dtable>Internal cognitive structuring</P></TD>
+    <TD=20
+    style=3D"PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: =
+0in; WIDTH: 75.4pt; PADDING-TOP: 0in"=20
+    vAlign=3Dtop width=3D101>
+      <P class=3Dtable>Affective and cognitive needs</P></TD>
+    <TD=20
+    style=3D"PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: =
+0in; WIDTH: 75.4pt; PADDING-TOP: 0in"=20
+    vAlign=3Dtop width=3D101>
+      <P class=3Dtable>Interaction of person, behavior, and =
+environment</P></TD>
+    <TD=20
+    style=3D"PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: =
+0in; WIDTH: 75.4pt; PADDING-TOP: 0in"=20
+    vAlign=3Dtop width=3D101>
+      <P class=3Dtable>Feedback and self-regulating systems in a complex =
+
+      environment</P>
+      <P=20
+  class=3Dtable><![if =
+!supportEmptyParas]><![endif]>&nbsp;<o:p></o:p></P></TD></TR>
+  <TR>
+    <TD=20
+    style=3D"PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: =
+0in; WIDTH: 54.9pt; PADDING-TOP: 0in"=20
+    vAlign=3Dtop width=3D73>
+      <P class=3Dtable><B style=3D"mso-bidi-font-weight: normal">Purpose =
+of=20
+      Instruction<o:p></o:p></B></P></TD>
+    <TD=20
+    style=3D"PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: =
+0in; WIDTH: 75.4pt; PADDING-TOP: 0in"=20
+    vAlign=3Dtop width=3D101>
+      <P class=3Dtable>Produce behavioral change in desired =
+direction</P>
+      <P=20
+class=3Dtable><![if =
+!supportEmptyParas]><![endif]>&nbsp;<o:p></o:p></P></TD>
+    <TD=20
+    style=3D"PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: =
+0in; WIDTH: 75.4pt; PADDING-TOP: 0in"=20
+    vAlign=3Dtop width=3D101>
+      <P class=3Dtable>Develop capacity and skills to learn =
+better</P></TD>
+    <TD=20
+    style=3D"PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: =
+0in; WIDTH: 75.4pt; PADDING-TOP: 0in"=20
+    vAlign=3Dtop width=3D101>
+      <P class=3Dtable>Become self-actualized, autonomous</P>
+      <P=20
+class=3Dtable><![if =
+!supportEmptyParas]><![endif]>&nbsp;<o:p></o:p></P></TD>
+    <TD=20
+    style=3D"PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: =
+0in; WIDTH: 75.4pt; PADDING-TOP: 0in"=20
+    vAlign=3Dtop width=3D101>
+      <P class=3Dtable>Model new roles and behavior</P></TD>
+    <TD=20
+    style=3D"PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: =
+0in; WIDTH: 75.4pt; PADDING-TOP: 0in"=20
+    vAlign=3Dtop width=3D101>
+      <P class=3Dtable>Develop the learner as =91information =
+processor=92</P></TD></TR>
+  <TR>
+    <TD=20
+    style=3D"BORDER-RIGHT: medium none; PADDING-RIGHT: 5.4pt; =
+BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0in; =
+BORDER-LEFT: medium none; WIDTH: 54.9pt; PADDING-TOP: 0in; =
+BORDER-BOTTOM: windowtext 0.75pt solid"=20
+    vAlign=3Dtop width=3D73>
+      <P class=3Dtable><B style=3D"mso-bidi-font-weight: normal">Role of =
+the=20
+      Designer<o:p></o:p></B></P></TD>
+    <TD=20
+    style=3D"BORDER-RIGHT: medium none; PADDING-RIGHT: 5.4pt; =
+BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0in; =
+BORDER-LEFT: medium none; WIDTH: 75.4pt; PADDING-TOP: 0in; =
+BORDER-BOTTOM: windowtext 0.75pt solid"=20
+    vAlign=3Dtop width=3D101>
+      <P class=3Dtable>Design stimuli to elicit desired =
+response</P></TD>
+    <TD=20
+    style=3D"BORDER-RIGHT: medium none; PADDING-RIGHT: 5.4pt; =
+BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0in; =
+BORDER-LEFT: medium none; WIDTH: 75.4pt; PADDING-TOP: 0in; =
+BORDER-BOTTOM: windowtext 0.75pt solid"=20
+    vAlign=3Dtop width=3D101>
+      <P class=3Dtable>Structure content of learning activity</P></TD>
+    <TD=20
+    style=3D"BORDER-RIGHT: medium none; PADDING-RIGHT: 5.4pt; =
+BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0in; =
+BORDER-LEFT: medium none; WIDTH: 75.4pt; PADDING-TOP: 0in; =
+BORDER-BOTTOM: windowtext 0.75pt solid"=20
+    vAlign=3Dtop width=3D101>
+      <P class=3Dtable>Facilitate development of the whole =
+person</P></TD>
+    <TD=20
+    style=3D"BORDER-RIGHT: medium none; PADDING-RIGHT: 5.4pt; =
+BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0in; =
+BORDER-LEFT: medium none; WIDTH: 75.4pt; PADDING-TOP: 0in; =
+BORDER-BOTTOM: windowtext 0.75pt solid"=20
+    vAlign=3Dtop width=3D101>
+      <P class=3Dtable>Present models of new roles and =
+behaviors</P></TD>
+    <TD=20
+    style=3D"BORDER-RIGHT: medium none; PADDING-RIGHT: 5.4pt; =
+BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0in; =
+BORDER-LEFT: medium none; WIDTH: 75.4pt; PADDING-TOP: 0in; =
+BORDER-BOTTOM: windowtext 0.75pt solid"=20
+    vAlign=3Dtop width=3D101>
+      <P class=3Dtable>Design systems that accept student inputs and =
+provide=20
+      meaningful feedback</P></TD></TR></TBODY></TABLE>
+<P class=3Dtable><![if =
+!supportEmptyParas]><![endif]>&nbsp;<o:p></o:p></P><B><SPAN=20
+style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: =
+'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: =
+EN-US; mso-bidi-language: AR-SA"><BR=20
+style=3D"PAGE-BREAK-BEFORE: always" clear=3Dall></SPAN></B>
+<H3><A name=3D_Toc448614428></A><A name=3D_Toc459087696><SPAN=20
+style=3D"mso-bookmark: _Toc448614428">Behaviorist =
+theories</SPAN></A></H3>
+<P class=3DMsoBodyText>The hallmark of the behaviorist theories is that =
+one does=20
+not have to delve into the invisible workings of the mind to understand=20
+learning. Learning can be completely described and structured in terms =
+of=20
+observable behaviors. </P>
+<P class=3DMsoBodyText>Three principles that dominate behaviorist =
+learning are=20
+summarized by Kearsley (1994):</P>
+<P class=3DMsoBodyText=20
+style=3D"MARGIN-LEFT: 1in; TEXT-INDENT: -0.25in; tab-stops: list 1.0in; =
+mso-list: l38 level1 lfo51"><![if !supportLists]>1.<SPAN=20
+style=3D"FONT: 7pt 'Times New =
+Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </SPAN><![endif]>Behavior =
+that is positively reinforced will reoccur;=20
+intermittent reinforcement is particularly effective.</P>
+<P class=3DMsoBodyText=20
+style=3D"MARGIN-LEFT: 1in; TEXT-INDENT: -0.25in; tab-stops: list 1.0in; =
+mso-list: l38 level1 lfo51"><![if !supportLists]>2.<SPAN=20
+style=3D"FONT: 7pt 'Times New =
+Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =
+</SPAN><![endif]>Information should be presented in small amounts so =
+that=20
+responses can be reinforced (=93shaping=94).</P>
+<P class=3DMsoBodyText=20
+style=3D"MARGIN-LEFT: 1in; TEXT-INDENT: -0.25in; tab-stops: list 1.0in; =
+mso-list: l38 level1 lfo51"><![if !supportLists]>3.<SPAN=20
+style=3D"FONT: 7pt 'Times New =
+Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =
+</SPAN><![endif]>Reinforcements will generalize across similar stimuli=20
+(=93stimulus generalization=94) producing secondary conditioning.</P>
+<P class=3DMsoBodyText>Programmed instruction, i.e., rigid sequences of =
+frames=20
+composed of stimuli, responses, and feedback (reinforcement), are =
+examples of=20
+instructional design that is modeled on a behaviorist orientation. </P>
+<H3><A name=3D_Toc448614429></A><A name=3D_Toc459087697><SPAN=20
+style=3D"mso-bookmark: _Toc448614429">Cognitive theories</SPAN></A></H3>
+<P class=3DMsoBodyText>Cognitive learning theories have their origins =
+with the=20
+Gestalt psychologists and their interest in perception of forms, shapes, =
+and=20
+procedures. Eventually the primary interest in the field focused on =
+cognitive=20
+stages that explained how external stimuli are perceived, recognized, =
+processed=20
+into information, and stored in memory. </P>
+<P class=3DMsoBodyText style=3D"MARGIN-TOP: 12pt">One influential =
+cognitive theory=20
+is Gagn=E9=92s Conditions of Learning, (Gagn=E9, Briggs, &amp; Wages, =
+1992) in which=20
+he identifies the following five major categories of learning: (1) =
+intellectual=20
+skills, (2) cognitive strategies, (3) verbal information, (4) attitudes, =
+and (5)=20
+motor skills. His theory stresses that each type of learning requires =
+different=20
+internal and external conditions. </P>
+<H3><A name=3D_Toc448614430></A><A name=3D_Toc459087698><SPAN=20
+style=3D"mso-bookmark: _Toc448614430">Humanist theories</SPAN></A></H3>
+<P class=3DMsoBodyText>Perhaps =91humanist theories=92 would be more =
+accurately=20
+described as =91humanist philosophies=92 (Romiszowski, 1986). Humanists =
+are=20
+concerned with education=92s role in the development of the person <I=20
+style=3D"mso-bidi-font-style: normal">as a person</I>. Humanistic =
+theories are=20
+often found in management and communication training, where topics such =
+as=20
+employee motivation, self-actualization, and cultural diversity lend =
+themselves=20
+to humanistic perspectives.</P>
+<H3><A name=3D_Toc448614431></A><A name=3D_Toc459087699><SPAN=20
+style=3D"mso-bookmark: _Toc448614431">Social/situated learning=20
+theories</SPAN></A></H3>
+<P class=3DMsoBodyText>Bandura=92s social learning theory was an early =
+bridge=20
+between behaviorism and cognitivism and emphasized the social aspect of=20
+learning. Bandura (1971) held that people learn by observing and copying =
+the=20
+behavior of others. He detailed, however, the cognitive processes =
+involved in=20
+this learning: (1) Attention, (2) Retention, (including symbolic coding, =
+
+cognitive organization, symbolic rehearsal, and motor rehearsal), (3) =
+Motor=20
+Reproduction, and (4) Motivation. </P>
+<P class=3DMsoBodyText>As with Bandura=92s social learning theory, =
+situated learning=20
+(Lave &amp; Wenger, 1990) considers social interaction as a critical =
+component=20
+of learning. In situated learning,<B style=3D"mso-bidi-font-weight: =
+normal">=20
+</B>knowledge is derived from the activity, context, and culture in =
+which the=20
+learner functions. An important concept of situated learning is =
+=91authentic=20
+activity=92, i.e., activity defined by a community of practice and not =
+by academic=20
+analysis.</P>
+<H3><A name=3D_Toc448614432></A><A name=3D_Toc459087700><SPAN=20
+style=3D"mso-bookmark: _Toc448614432">Cybernetic =
+theories</SPAN></A></H3>
+<P class=3DMsoBodyText>World War II and its emphasis on reliable =
+communications=20
+and missile technology fueled both an interest in and funding for the =
+field of=20
+cybernetics, i.e. the design of self-regulating control systems. These =
+systems=20
+typically rely on error detection and correction (through feedback). An =
+example=20
+of a cybernetic system would be the autopilot function on an airplane. =
+This=20
+field provided a model for a different view of learning, the cybernetic=20
+orientation. The cybernetic orientation to learning packages elements of =
+
+behaviorism (feedback) with cognition (information processing) within a=20
+technology-based metaphor, i.e., a closed-loop servo-controlled system. =
+The=20
+cybernetic orientation views the learner as an element in a larger =
+human-machine=20
+or a human-computer system. The learner is not merely reacting to =
+external=20
+stimuli and not merely processing perceptions internally; the learner =
+reacts to=20
+information and processes that information in cooperation with the =
+instructional=20
+media. This orientation to learning is most applicable to designers of=20
+computer-based instruction.</P>
+<P class=3DMsoBodyText>Next, I describe three models of instructional =
+design that=20
+have influenced the practice of many instructional designers and relate =
+them to=20
+these learning theories.</P>
+<H2><A name=3D_Toc448016038></A><A name=3D_Toc448614433></A><A=20
+name=3D_Toc459087701><SPAN style=3D"mso-bookmark: _Toc448614433"><SPAN=20
+style=3D"mso-bookmark: _Toc448016038">Models of Instructional=20
+Design</SPAN></SPAN></A></H2>
+<P class=3DMsoBodyText>=93Instruction is the delivery of information and =
+activities=20
+that facilitate learners=92 attainment of intended, specific learning =
+goals,=94 and=20
+=93instructional design refers to the systematic process of translating =
+principles=20
+of learning and instruction into plans for instructional materials and=20
+activities=94 (Smith &amp; Ragan, 1993, p.2). As with learning theories, =
+we find=20
+no lack of models to guide designers, and good designers should be adept =
+with a=20
+variety of models and able to select the appropriate one for the =
+particular=20
+instructional problem being addressed. Again, as with learning theories, =
+some=20
+way of analyzing and categorizing the diverse approaches would be =
+helpful.=20
+Figure 1 shows a four-level classification scheme used by Edmonds, =
+Branch, and=20
+Mukherjee (1994), which I will refer to in describing the models in this =
+
+section.</P>
+<TABLE style=3D"BORDER-COLLAPSE: collapse; mso-padding-alt: 0in 5.4pt =
+0in 5.4pt"=20
+cellSpacing=3D0 cellPadding=3D0 border=3D0>
+  <TBODY>
+  <TR>
+    <TD=20
+    style=3D"BORDER-RIGHT: medium none; PADDING-RIGHT: 5.4pt; =
+BORDER-TOP: windowtext 0.75pt solid; PADDING-LEFT: 5.4pt; =
+PADDING-BOTTOM: 0in; BORDER-LEFT: medium none; WIDTH: 95.4pt; =
+PADDING-TOP: 0in; BORDER-BOTTOM: medium none"=20
+    vAlign=3Dtop width=3D127>
+      <P class=3Dtable><B=20
+      style=3D"mso-bidi-font-weight: =
+normal">Orientation<o:p></o:p></B></P></TD>
+    <TD=20
+    style=3D"BORDER-RIGHT: medium none; PADDING-RIGHT: 5.4pt; =
+BORDER-TOP: windowtext 0.75pt solid; PADDING-LEFT: 5.4pt; =
+PADDING-BOTTOM: 0in; BORDER-LEFT: medium none; WIDTH: 347.4pt; =
+PADDING-TOP: 0in; BORDER-BOTTOM: medium none"=20
+    vAlign=3Dtop width=3D463>
+      <P class=3Dtable><B style=3D"mso-bidi-font-weight: =
+normal">Prescriptive</B>:=20
+      Describes how a learning environment can be constructed or =
+altered.</P>
+      <P class=3Dtable><B style=3D"mso-bidi-font-weight: =
+normal">Descriptive</B>:=20
+      Outlines a given environment and implies how the variables of =
+interest=20
+      will be affected based on practical experiences of learning and=20
+      instruction.</P>
+      <P=20
+  class=3Dtable><![if =
+!supportEmptyParas]><![endif]>&nbsp;<o:p></o:p></P></TD></TR>
+  <TR>
+    <TD=20
+    style=3D"PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: =
+0in; WIDTH: 95.4pt; PADDING-TOP: 0in"=20
+    vAlign=3Dtop width=3D127>
+      <P class=3Dtable><B=20
+      style=3D"mso-bidi-font-weight: =
+normal">Knowledge<o:p></o:p></B></P></TD>
+    <TD=20
+    style=3D"PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: =
+0in; WIDTH: 347.4pt; PADDING-TOP: 0in"=20
+    vAlign=3Dtop width=3D463>
+      <P class=3Dtable><B style=3D"mso-bidi-font-weight: =
+normal">Procedural</B>: How=20
+      we reach a goal=97emphasis on examples, non-examples, drill &amp; =
+feedback,=20
+      low verbal load, criterion-referenced evaluation.</P>
+      <P class=3Dtable><B style=3D"mso-bidi-font-weight: =
+normal">Declarative</B>:=20
+      Why we reach a goal=97emphasize analogies, discovery-type =
+instruction, and=20
+      norm-referenced evaluation (Clark, 1989).</P>
+      <P=20
+  class=3Dtable><![if =
+!supportEmptyParas]><![endif]>&nbsp;<o:p></o:p></P></TD></TR>
+  <TR>
+    <TD=20
+    style=3D"PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: =
+0in; WIDTH: 95.4pt; PADDING-TOP: 0in"=20
+    vAlign=3Dtop width=3D127>
+      <P class=3Dtable><!--[if gte vml 1]><v:line id=3D_x0000_s1026=20
+      style=3D"Z-INDEX: 1; POSITION: absolute; =
+mso-position-horizontal-relative: text; mso-position-vertical-relative: =
+text"=20
+      from =3D "120pt,26.75pt" to =3D "425.25pt,26.875pt" o:allowincell =
+=3D=20
+      "f"><v:stroke startarrow =3D "block" startarrowwidth =3D "wide" =
+endarrow =3D=20
+      "block" endarrowwidth =3D =
+"wide"></v:stroke></v:line><![endif]--><![if !vml]><span =
+style=3D'mso-ignore:vglayout;position:
+  =
+absolute;z-index:0;margin-left:159px;margin-top:28px;width:411px;height:1=
+8px'><img
+  width=3D411 height=3D18 src=3D"./interface_files/image001.gif" =
+v:shapes=3D"_x0000_s1026"></span><![endif]><B=20
+      style=3D"mso-bidi-font-weight: normal">Required Designer=20
+      Expertise<o:p></o:p></B></P></TD>
+    <TD=20
+    style=3D"PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: =
+0in; WIDTH: 347.4pt; PADDING-TOP: 0in"=20
+    vAlign=3Dtop width=3D463>
+      <P class=3Dtable><B style=3D"mso-bidi-font-weight: normal"><SPAN=20
+      style=3D"mso-tab-count: =
+1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;=20
+      </SPAN></B>Algorithmic<SPAN=20
+      style=3D"mso-tab-count: =
+6">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+      </SPAN>Heuristic</P>
+      <P class=3Dtable><![if =
+!supportEmptyParas]><![endif]>&nbsp;<o:p></o:p></P>
+      <P class=3Dtable><SPAN=20
+      style=3D"mso-tab-count: =
+1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;=20
+      </SPAN><B style=3D"mso-bidi-font-weight: normal">Novice<SPAN=20
+      style=3D"mso-tab-count: =
+3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+      </SPAN>Intermediate<SPAN=20
+      style=3D"mso-tab-count: =
+3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+      </SPAN>Expert<o:p></o:p></B></P></TD></TR>
+  <TR>
+    <TD=20
+    style=3D"BORDER-RIGHT: medium none; PADDING-RIGHT: 5.4pt; =
+BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0in; =
+BORDER-LEFT: medium none; WIDTH: 95.4pt; PADDING-TOP: 0in; =
+BORDER-BOTTOM: windowtext 0.75pt solid"=20
+    vAlign=3Dtop width=3D127>
+      <P class=3Dtable><B style=3D"mso-bidi-font-weight: =
+normal">Theoretical=20
+      Origins<o:p></o:p></B></P></TD>
+    <TD=20
+    style=3D"BORDER-RIGHT: medium none; PADDING-RIGHT: 5.4pt; =
+BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0in; =
+BORDER-LEFT: medium none; WIDTH: 347.4pt; PADDING-TOP: 0in; =
+BORDER-BOTTOM: windowtext 0.75pt solid"=20
+    vAlign=3Dtop width=3D463>
+      <P class=3Dtable><B style=3D"mso-bidi-font-weight: normal">Hard =
+Systems</B>:=20
+      Uses a true systems approach that focuses on the defining and =
+attainment=20
+      of goals.</P>
+      <P class=3Dtable><B style=3D"mso-bidi-font-weight: normal">Soft =
+Systems</B>:=20
+      Is more systematic than systemic and not goals driven.</P>
+      <P class=3Dtable><B style=3D"mso-bidi-font-weight: =
+normal">Intuition</B>: Not=20
+      based on a systematic or systemic approach at all.<B=20
+      style=3D"mso-bidi-font-weight: =
+normal"><o:p></o:p></B></P></TD></TR></TBODY></TABLE>
+<P class=3DMsoCaption><A name=3D_Ref447848172></A><A =
+name=3D_Toc448614484><SPAN=20
+style=3D"mso-bookmark: _Ref447848172">Figure </SPAN>1: Classification =
+scheme for=20
+instructional design models</A> </P>
+<P class=3DMsoBodyText><![if =
+!supportEmptyParas]><![endif]>&nbsp;<o:p></o:p></P>
+<P class=3DMsoBodyText>I next discuss three specific models that have =
+proven=20
+useful in my own professional experience: (1) Dick=92s and Carey=92s =
+ISD, (2)=20
+Gagn=E9=92s nine events of instruction, and (3) rapid prototyping.</P>
+<H3><A name=3D_Toc448614434></A><A name=3D_Toc459087702><SPAN=20
+style=3D"mso-bookmark: _Toc448614434">Instructional system design=20
+(ISD)</SPAN></A></H3>
+<P class=3DMsoBodyText>The Instructional System Design model of Dick =
+&amp; Carey=20
+(1996) shown in Figure 2 is perhaps one of the best known models of=20
+instructional design, and indeed could be described as seminal to the =
+field of=20
+instructional technology since so many other models have been derived =
+from=20
+it.</P>
+<P class=3DMsoBodyText><![if =
+!supportEmptyParas]><![endif]>&nbsp;<o:p></o:p></P>
+<P class=3DMsoNormal><!--[if gte vml 1]><v:shapetype id=3D_x0000_t75 =
+coordsize =3D=20
+"21600,21600" o:preferrelative =3D "t" o:spt =3D "75" filled =3D "f" =
+stroked =3D "f"=20
+path =3D " m@4@5 l@4@11@9@11@9@5 xe"><v:stroke joinstyle =3D=20
+"miter"></v:stroke><v:formulas><v:f eqn =3D=20
+"if lineDrawn pixelLineWidth 0 "></v:f><v:f eqn =3D "sum @0 1 0 =
+"></v:f><v:f eqn =3D=20
+"sum 0 0 @1 "></v:f><v:f eqn =3D "prod @2 1 2 "></v:f><v:f eqn =3D=20
+"prod @3 21600 pixelWidth "></v:f><v:f eqn =3D=20
+"prod @3 21600 pixelHeight "></v:f><v:f eqn =3D "sum @0 0 1 "></v:f><v:f =
+eqn =3D=20
+"prod @6 1 2 "></v:f><v:f eqn =3D "prod @7 21600 pixelWidth "></v:f><v:f =
+eqn =3D=20
+"sum @8 21600 0 "></v:f><v:f eqn =3D "prod @7 21600 pixelHeight =
+"></v:f><v:f eqn =3D=20
+"sum @10 21600 0 "></v:f></v:formulas><v:path o:extrusionok =3D "f"=20
+gradientshapeok =3D "t" o:connecttype =3D "rect"></v:path><o:lock =
+aspectratio=3D"t"=20
+v:ext=3D"edit"></o:lock></v:shapetype><v:shape id=3D_x0000_i1031=20
+style=3D"WIDTH: 522.75pt; HEIGHT: 125.25pt" type =3D "#_x0000_t75" =
+coordsize =3D=20
+"21600,21600" fillcolor =3D "winColor(17)"><v:imagedata o:title=3D"" src =
+=3D=20
+"./interface_files/image002.wmz"></v:imagedata></v:shape><![endif]--><![i=
+f !vml]><img width=3D697 height=3D167
+src=3D"./interface_files/image003.gif" =
+v:shapes=3D"_x0000_i1031"><![endif]></P>
+<P class=3DMsoCaption><A name=3D_Ref447848693></A><A =
+name=3D_Toc448614485><SPAN=20
+style=3D"mso-bookmark: _Ref447848693">Figure </SPAN>2: Instructional =
+systems=20
+design</A></P>
+<P class=3DMsoBodyText><![if =
+!supportEmptyParas]><![endif]>&nbsp;<o:p></o:p></P>
+<P class=3DMsoBodyText>Edmonds et al. (1994) classify this model as=20
+Descriptive/Procedural/Novice-Expert/Hard Systems. The ISD model is =
+strongly=20
+oriented toward behaviorism, as evidenced by it emphasis on behavioral=20
+performance objectives, criterion-referenced testing, and procedural =
+task=20
+analysis. Because of its behavioral orientation, I have found the ISD =
+model=20
+especially helpful in developing industrial operation and maintenance =
+training.=20
+In these types of applications, the desired outcomes are often fixed =
+procedures=20
+or well-defined algorithms, both of which lend themselves to Dick=92s =
+and Carey=92s=20
+method of task analysis and instructional analysis quite well. </P>
+<P class=3DMsoBodyText>Another advantage of the ISD model is that it =
+defines a=20
+linear set of developmental stages and can serve as a project management =
+
+backbone for instructional design and materials development. Milestones =
+can be=20
+established for each stage and the process can be planned and its =
+progress=20
+monitored through conventional project management techniques and tools. =
+The=20
+formative evaluation stage, however, can create recursive loops, and a =
+project=20
+manager must be willing to recognize and react to the likelihood that =
+stages=20
+checked off as =91done=92 can become =91undone=92 later in the =
+project.</P>
+<H3><A name=3D_Toc448614435></A><A name=3D_Toc459087703><SPAN=20
+style=3D"mso-bookmark: _Toc448614435">Gagn=E9=92s instructional =
+events</SPAN></A></H3>
+<P class=3DMsoBodyText>Gagne et al. (1992) describe an instructional =
+model that=20
+correlates specific events of instruction with cognitive learning =
+processes. See=20
+Table 2. In this model, Gagn=E9 blends a definite cognitive orientation =
+(drawing=20
+on an information-processing model) with a behavioral orientation =
+(emphasizing=20
+objectives, practice, and feedback). Similar to Dick=92s and Carey=92s =
+model,=20
+Gagn=E9=92s could be classified as =
+Descriptive/Procedural/Novice-Expert/Hard=20
+Systems. But where I would describe Dick=92s and Carey=92s model as a <I =
+
+style=3D"mso-bidi-font-style: normal">process </I>model, i.e., one that =
+describes=20
+steps to design instruction, I would call Gagn=E9=92s nine events of =
+instruction a=20
+<I style=3D"mso-bidi-font-style: normal">structural</I> model, i.e., one =
+that=20
+describes what components the instruction should include=97similar to =
+Gustafson=92s=20
+(1991) classifications of <I style=3D"mso-bidi-font-style: =
+normal">systems=20
+focused</I> and <I style=3D"mso-bidi-font-style: normal">classroom =
+focused</I>.=20
+Accordingly, Gagn=E9=92s model can integrate quite well with Dick=92s =
+and Carey=92s,=20
+using Dick=92s and Carey=92s model to drive the course development and =
+using Gagn=E9=92s=20
+model to structure individual lessons.</P>
+<P class=3DMsoCaption><A name=3D_Ref447957272></A><A =
+name=3D_Toc448614499><SPAN=20
+style=3D"mso-bookmark: _Ref447957272">Table </SPAN>2<BR>Gagn=E9=92s =
+instructional=20
+events and their relation to learning processes</A></P>
+<TABLE style=3D"BORDER-COLLAPSE: collapse; mso-padding-alt: 0in 5.4pt =
+0in 5.4pt"=20
+cellSpacing=3D0 cellPadding=3D0 border=3D0>
+  <TBODY>
+  <TR>
+    <TD=20
+    style=3D"BORDER-RIGHT: medium none; PADDING-RIGHT: 5.4pt; =
+BORDER-TOP: windowtext 0.75pt solid; PADDING-LEFT: 5.4pt; =
+PADDING-BOTTOM: 0in; BORDER-LEFT: medium none; WIDTH: 221.4pt; =
+PADDING-TOP: 0in; BORDER-BOTTOM: windowtext 0.75pt solid"=20
+    vAlign=3Dtop width=3D295>
+      <P class=3Dtable><B style=3D"mso-bidi-font-weight: =
+normal">Instructional=20
+      Event<o:p></o:p></B></P></TD>
+    <TD=20
+    style=3D"BORDER-RIGHT: medium none; PADDING-RIGHT: 5.4pt; =
+BORDER-TOP: windowtext 0.75pt solid; PADDING-LEFT: 5.4pt; =
+PADDING-BOTTOM: 0in; BORDER-LEFT: medium none; WIDTH: 221.4pt; =
+PADDING-TOP: 0in; BORDER-BOTTOM: windowtext 0.75pt solid"=20
+    vAlign=3Dtop width=3D295>
+      <P class=3Dtable><B style=3D"mso-bidi-font-weight: =
+normal">Relation to=20
+      Learning Process<o:p></o:p></B></P></TD></TR>
+  <TR>
+    <TD=20
+    style=3D"PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: =
+0in; WIDTH: 221.4pt; PADDING-TOP: 0in"=20
+    vAlign=3Dtop width=3D295>
+      <P class=3Dtable=20
+      style=3D"MARGIN: 3pt 0in 6pt 0.5in; TEXT-INDENT: -0.25in; =
+mso-list: l6 level1 lfo5"><![if !supportLists]>1.<SPAN=20
+      style=3D"FONT: 7pt 'Times New =
+Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+      </SPAN><![endif]>Gaining attention</P></TD>
+    <TD=20
+    style=3D"PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: =
+0in; WIDTH: 221.4pt; PADDING-TOP: 0in"=20
+    vAlign=3Dtop width=3D295>
+      <P class=3Dtable style=3D"MARGIN-BOTTOM: 6pt"><I=20
+      style=3D"mso-bidi-font-style: normal">Reception</I> of patterns of =
+neural=20
+      impulses</P></TD></TR>
+  <TR>
+    <TD=20
+    style=3D"PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: =
+0in; WIDTH: 221.4pt; PADDING-TOP: 0in"=20
+    vAlign=3Dtop width=3D295>
+      <P class=3Dtable=20
+      style=3D"MARGIN: 3pt 0in 6pt 0.5in; TEXT-INDENT: -0.25in; =
+tab-stops: list .5in; mso-list: l6 level1 lfo6"><![if =
+!supportLists]>2.<SPAN=20
+      style=3D"FONT: 7pt 'Times New =
+Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+      </SPAN><![endif]>Informing learner of the objective</P></TD>
+    <TD=20
+    style=3D"PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: =
+0in; WIDTH: 221.4pt; PADDING-TOP: 0in"=20
+    vAlign=3Dtop width=3D295>
+      <P class=3Dtable style=3D"MARGIN-BOTTOM: 6pt">Activating a process =
+of <I=20
+      style=3D"mso-bidi-font-style: normal">executive =
+control</I></P></TD></TR>
+  <TR>
+    <TD=20
+    style=3D"PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: =
+0in; WIDTH: 221.4pt; PADDING-TOP: 0in"=20
+    vAlign=3Dtop width=3D295>
+      <P class=3Dtable=20
+      style=3D"MARGIN: 3pt 0in 6pt 0.5in; TEXT-INDENT: -0.25in; =
+tab-stops: list .5in; mso-list: l6 level1 lfo6"><![if =
+!supportLists]>3.<SPAN=20
+      style=3D"FONT: 7pt 'Times New =
+Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+      </SPAN><![endif]>Stimulating recall of the prerequisite =
+learning</P></TD>
+    <TD=20
+    style=3D"PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: =
+0in; WIDTH: 221.4pt; PADDING-TOP: 0in"=20
+    vAlign=3Dtop width=3D295>
+      <P class=3Dtable style=3D"MARGIN-BOTTOM: 6pt"><I=20
+      style=3D"mso-bidi-font-style: normal">Retrieval</I> of prior =
+learning to=20
+      working memory</P></TD></TR>
+  <TR>
+    <TD=20
+    style=3D"PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: =
+0in; WIDTH: 221.4pt; PADDING-TOP: 0in"=20
+    vAlign=3Dtop width=3D295>
+      <P class=3Dtable=20
+      style=3D"MARGIN: 3pt 0in 6pt 0.5in; TEXT-INDENT: -0.25in; =
+tab-stops: list .5in; mso-list: l6 level1 lfo6"><![if =
+!supportLists]>4.<SPAN=20
+      style=3D"FONT: 7pt 'Times New =
+Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+      </SPAN><![endif]>Presenting the stimulus material</P></TD>
+    <TD=20
+    style=3D"PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: =
+0in; WIDTH: 221.4pt; PADDING-TOP: 0in"=20
+    vAlign=3Dtop width=3D295>
+      <P class=3Dtable style=3D"MARGIN-BOTTOM: 6pt">Emphasizing features =
+for=20
+      selective <I style=3D"mso-bidi-font-style: =
+normal">perception</I></P></TD></TR>
+  <TR>
+    <TD=20
+    style=3D"PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: =
+0in; WIDTH: 221.4pt; PADDING-TOP: 0in"=20
+    vAlign=3Dtop width=3D295>
+      <P class=3Dtable=20
+      style=3D"MARGIN: 3pt 0in 6pt 0.5in; TEXT-INDENT: -0.25in; =
+tab-stops: list .5in; mso-list: l6 level1 lfo6"><![if =
+!supportLists]>5.<SPAN=20
+      style=3D"FONT: 7pt 'Times New =
+Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+      </SPAN><![endif]>Providing learning guidance</P></TD>
+    <TD=20
+    style=3D"PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: =
+0in; WIDTH: 221.4pt; PADDING-TOP: 0in"=20
+    vAlign=3Dtop width=3D295>
+      <P class=3Dtable style=3D"MARGIN-BOTTOM: 6pt"><I=20
+      style=3D"mso-bidi-font-style: normal">Semantic encoding</I>; clues =
+for <I=20
+      style=3D"mso-bidi-font-style: normal">retrieval</I></P></TD></TR>
+  <TR>
+    <TD=20
+    style=3D"PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: =
+0in; WIDTH: 221.4pt; PADDING-TOP: 0in"=20
+    vAlign=3Dtop width=3D295>
+      <P class=3Dtable=20
+      style=3D"MARGIN: 3pt 0in 6pt 0.5in; TEXT-INDENT: -0.25in; =
+tab-stops: list .5in; mso-list: l6 level1 lfo6"><![if =
+!supportLists]>6.<SPAN=20
+      style=3D"FONT: 7pt 'Times New =
+Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+      </SPAN><![endif]>Eliciting the performance</P></TD>
+    <TD=20
+    style=3D"PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: =
+0in; WIDTH: 221.4pt; PADDING-TOP: 0in"=20
+    vAlign=3Dtop width=3D295>
+      <P class=3Dtable style=3D"MARGIN-BOTTOM: 6pt">Activating <I=20
+      style=3D"mso-bidi-font-style: normal">response =
+organization</I></P></TD></TR>
+  <TR>
+    <TD=20
+    style=3D"PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: =
+0in; WIDTH: 221.4pt; PADDING-TOP: 0in"=20
+    vAlign=3Dtop width=3D295>
+      <P class=3Dtable=20
+      style=3D"MARGIN: 3pt 0in 6pt 0.5in; TEXT-INDENT: -0.25in; =
+tab-stops: list .5in; mso-list: l6 level1 lfo6"><![if =
+!supportLists]>7.<SPAN=20
+      style=3D"FONT: 7pt 'Times New =
+Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+      </SPAN><![endif]>Providing feedback about performance =
+correctness</P></TD>
+    <TD=20
+    style=3D"PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: =
+0in; WIDTH: 221.4pt; PADDING-TOP: 0in"=20
+    vAlign=3Dtop width=3D295>
+      <P class=3Dtable style=3D"MARGIN-BOTTOM: 6pt">Establishing <I=20
+      style=3D"mso-bidi-font-style: =
+normal">reinforcement</I></P></TD></TR>
+  <TR>
+    <TD=20
+    style=3D"PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: =
+0in; WIDTH: 221.4pt; PADDING-TOP: 0in"=20
+    vAlign=3Dtop width=3D295>
+      <P class=3Dtable=20
+      style=3D"MARGIN: 3pt 0in 6pt 0.5in; TEXT-INDENT: -0.25in; =
+tab-stops: list .5in; mso-list: l6 level1 lfo6"><![if =
+!supportLists]>8.<SPAN=20
+      style=3D"FONT: 7pt 'Times New =
+Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+      </SPAN><![endif]>Assessing the performance</P></TD>
+    <TD=20
+    style=3D"PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: =
+0in; WIDTH: 221.4pt; PADDING-TOP: 0in"=20
+    vAlign=3Dtop width=3D295>
+      <P class=3Dtable style=3D"MARGIN-BOTTOM: 6pt">Activating <I=20
+      style=3D"mso-bidi-font-style: normal">retrieval</I>; making <I=20
+      style=3D"mso-bidi-font-style: normal">reinforcement</I> =
+possible</P></TD></TR>
+  <TR>
+    <TD=20
+    style=3D"BORDER-RIGHT: medium none; PADDING-RIGHT: 5.4pt; =
+BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0in; =
+BORDER-LEFT: medium none; WIDTH: 221.4pt; PADDING-TOP: 0in; =
+BORDER-BOTTOM: windowtext 0.75pt solid"=20
+    vAlign=3Dtop width=3D295>
+      <P class=3Dtable=20
+      style=3D"MARGIN-LEFT: 0.5in; TEXT-INDENT: -0.25in; tab-stops: list =
+.5in; mso-list: l6 level1 lfo6"><![if !supportLists]>9.<SPAN=20
+      style=3D"FONT: 7pt 'Times New =
+Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+      </SPAN><![endif]>Enhancing retention and transfer</P></TD>
+    <TD=20
+    style=3D"BORDER-RIGHT: medium none; PADDING-RIGHT: 5.4pt; =
+BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0in; =
+BORDER-LEFT: medium none; WIDTH: 221.4pt; PADDING-TOP: 0in; =
+BORDER-BOTTOM: windowtext 0.75pt solid"=20
+    vAlign=3Dtop width=3D295>
+      <P class=3Dtable>Providing cues and strategies for <I=20
+      style=3D"mso-bidi-font-style: =
+normal">retrieval</I></P></TD></TR></TBODY></TABLE>
+<P class=3DMsoBodyText><![if =
+!supportEmptyParas]><![endif]>&nbsp;<o:p></o:p></P>
+<H3><A name=3D_Toc448614436></A><A name=3D_Toc459087704><SPAN=20
+style=3D"mso-bookmark: _Toc448614436">Rapid prototyping</SPAN></A></H3>
+<P class=3DMsoBodyText>When instruction is technology-based and the =
+development of=20
+that instruction relies on the use of an authoring tool of some type, =
+rapid=20
+prototyping, as described by Tripp &amp; Bichelmeyer (1990) can be an =
+effective=20
+design model. Figure 3 shows a diagram of the rapid prototyping model. =
+In this=20
+approach, development of the instructional materials can start before =
+the=20
+objectives are set. Note that most of the stages overlap other =
+stages.</P>
+<P class=3DMsoBodyText>Edmonds et al. (1994) classify this model as a=20
+Prescriptive-Descriptive/Procedural-Declarative/Expert/Soft-Intuitive =
+model.=20
+Because it lacks the clearly defined, systematic approach of the Dick =
+and Carey=20
+and Gagn=E9 models, its use should be restricted to experienced =
+instructional=20
+designers. Although one could argue that this model is a capitulation to =
+time=20
+demands and looming deadlines that make more rigorous models prohibitive =
+(and in=20
+more than one of my own projects this accusation would carry some degree =
+of=20
+truth), this model has merit in the fact that design is often emergent =
+with the=20
+designer=92s increasing awareness of the content or the application of =
+that=20
+content (Smudde, 1991). In these cases, the development or prototyping =
+tools can=20
+serve as cognitive tools in the evolution of the designer=92s awareness. =
+</P>
+<P class=3DMsoBodyText><![if =
+!supportEmptyParas]><![endif]>&nbsp;<o:p></o:p></P>
+<P class=3DMsoHeader style=3D"LINE-HEIGHT: normal; tab-stops: =
+.5in"><SPAN=20
+style=3D"FONT-FAMILY: 'MS Sans Serif'; mso-bidi-font-size: =
+12.0pt"><!--[if gte vml 1]><v:shape=20
+id=3D_x0000_i1025 style=3D"WIDTH: 309.75pt; HEIGHT: 132pt" type =3D =
+"#_x0000_t75"=20
+coordsize =3D "21600,21600" fillcolor =3D "winColor(17)"><v:imagedata =
+o:title=3D"" src=20
+=3D =
+"./interface_files/image004.wmz"></v:imagedata></v:shape><![endif]--><![i=
+f !vml]><img width=3D413 height=3D176
+src=3D"./interface_files/image005.gif" =
+v:shapes=3D"_x0000_i1025"><![endif]><o:p></o:p></SPAN></P>
+<P class=3DMsoCaption><A name=3D_Ref448015396></A><A =
+name=3D_Toc448614486><SPAN=20
+style=3D"mso-bookmark: _Ref448015396">Figure </SPAN>3: Rapid =
+prototyping</A></P>
+<P class=3DMsoBodyText><![if =
+!supportEmptyParas]><![endif]>&nbsp;<o:p></o:p></P>
+<P class=3DMsoBodyText>This model suggests a cybernetic orientation, =
+especially=20
+from the perspective of <I style=3D"mso-bidi-font-style: =
+normal">designer as=20
+learner</I>. I find, for example, that I use this model when developing =
+online=20
+documentation for computer-based products and when designing =
+instructional=20
+materials to go on the Internet. The cybernetic aspect is that I design =
+an=20
+instructional chunk, compile/view it, and then adjust content, =
+organization, and=20
+presentation based on what I experience as the instruction comes back at =
+me.=20
+This embodies two of Pask=92s (1975) principles noted by Kearsley =
+(1994):</P>
+<P class=3DMsoBodyText=20
+style=3D"MARGIN-LEFT: 0.5in; TEXT-INDENT: -0.25in; tab-stops: list .5in; =
+mso-list: l17 level1 lfo52"><![if !supportLists]>1.<SPAN=20
+style=3D"FONT: 7pt 'Times New =
+Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </SPAN><![endif]>To learn a =
+subject matter, students must learn the=20
+relationships among the concepts. (The sequencing or navigational =
+organization=20
+of the topics support this principle.)</P>
+<P class=3DMsoBodyText=20
+style=3D"MARGIN-LEFT: 0.5in; TEXT-INDENT: -0.25in; tab-stops: list .5in; =
+mso-list: l17 level1 lfo52"><![if !supportLists]>2.<SPAN=20
+style=3D"FONT: 7pt 'Times New =
+Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </SPAN><![endif]>Explicit =
+explanation or manipulation of the subject matter=20
+facilitates understanding (e.g., use of teach-back technique). </P>
+<H3><A name=3D_Toc459087705>Situated Instruction Model</A></H3>
+<P class=3DMsoBodyText>In addition to being heavily influenced by the =
+models I=20
+have just described, my own practice as an instructional designer has =
+also been=20
+influenced by an emerging constructivist orientation in the field of=20
+instructional design and a shift toward situated learning. A =
+constructivist=20
+approach holds that =93(1) learning is an active process of constructing =
+rather=20
+than acquiring knowledge, and (2) instruction is a process of supporting =
+that=20
+construction rather than communicating knowledge=94 (Duffy &amp; =
+Cunningham, 1996,=20
+p. 171). Situated learning, then, =93contends that knowledge is an =
+active=20
+relationship between an agent and the environment, and learning must =
+take place=20
+during the time the student is actively engaged with a complex, =
+realistic=20
+instructional context=94 (Young, 1993, p.5).</P>
+<P class=3DMsoBodyText>Since most of my training experience deals with =
+commercial=20
+technology products, my approach focuses on creating authentic tasks or =
+problems=20
+for the students to solve and then developing the necessary scaffolding =
+and=20
+instruction to let the student engage the problem as early as possible. =
+=93Rather=20
+than =91teaching=92 the skills, the skills are developed through working =
+on the=20
+problem, i.e., through authentic activity=94 (Duffy &amp; Cunningham, =
+1996). </P>
+<P class=3DMsoBodyText>Figure 4 shows a diagram of my approach. Note =
+that I=20
+represent =91Evaluation=92 as a substrate that supports each of the =
+stages. I=20
+differentiate at each stage who the evaluators should be. </P>
+<P class=3DMsoBodyText><![if =
+!supportEmptyParas]><![endif]>&nbsp;<o:p></o:p></P>
+<P class=3DMsoBodyText style=3D"MARGIN: 12pt 0in 0pt 4.5pt; TEXT-INDENT: =
+-4.5pt"><A=20
+name=3D_Toc448614487></A><A name=3D_Ref448189413><SPAN=20
+style=3D"mso-bookmark: _Toc448614487"><!--[if gte vml 1]><v:shape =
+id=3D_x0000_i1026=20
+style=3D"WIDTH: 6in; HEIGHT: 112.5pt" type =3D "#_x0000_t75" coordsize =
+=3D=20
+"21600,21600"><v:imagedata o:title=3D"mymodel" src =3D=20
+"./interface_files/image006.png"></v:imagedata></v:shape><![endif]--><![i=
+f !vml]><img width=3D576 height=3D150
+src=3D"./interface_files/image007.jpg" =
+v:shapes=3D"_x0000_i1026"><![endif]></SPAN></A></P>
+<P class=3DMsoCaption><SPAN style=3D"mso-bookmark: _Ref448189413"><SPAN=20
+style=3D"mso-bookmark: _Toc448614487">Figure </SPAN></SPAN><SPAN=20
+style=3D"mso-bookmark: _Toc448614487">4: Model for developing situated=20
+instruction</SPAN></P>
+<P class=3DMsoBodyText><![if =
+!supportEmptyParas]><![endif]>&nbsp;<o:p></o:p></P>
+<P class=3DMsoBodyText>The first stage tracks fairly closely to a =
+traditional=20
+needs assessment component similar to what is found in most systematic =
+models.=20
+The second stage draws on situated learning principles and most =
+specifically=20
+those of Problem Based Learning (PBL) (Duffy &amp; Cunningham, 1996). =
+The third=20
+stage is a busy one, combining sequencing, designing scaffolding, and =
+developing=20
+instruction. I group these into one stage because I develop them in an =
+iterative=20
+process, drawing on the rapid prototyping model. Lastly I produce the =
+final=20
+package, including instructor guides and student materials. Table 3 =
+describes=20
+each stage in detail.</P>
+<P class=3DMsoBodyText>Figure 5 shows a sample exercise from a program =
+developed=20
+using this model (Hughes, 1998). One can see elements of behaviorism in =
+the=20
+inclusion of objectives, but they are subordinate to the authentic task =
+within=20
+which the exercise is situated. The exercise also draws on Gagn=E9=92s =
+events of=20
+instruction, e.g., informing the student of the objectives, providing =
+guidance,=20
+and giving feedback (in this case from running the application in the =
+product=20
+itself.) The =91Principles=92 at the bottom of the exercise represent =
+the=20
+scaffolding, hints to help the student engage the problem on their own. =
+The use=20
+of a simulator in this course to emulate an operating call center also=20
+incorporated a cybernetic learning orientation: students could run the=20
+application and see the effects of their design in operation.</P>
+<P class=3DMsoCaption><A name=3D_Ref448189652></A><A =
+name=3D_Toc448614500><SPAN=20
+style=3D"mso-bookmark: _Ref448189652">Table </SPAN>3<BR>Stages for =
+developing=20
+situated instruction</A></P>
+<TABLE style=3D"BORDER-COLLAPSE: collapse; mso-padding-alt: 0in 5.4pt =
+0in 5.4pt"=20
+cellSpacing=3D0 cellPadding=3D0 border=3D0>
+  <TBODY>
+  <TR>
+    <TD=20
+    style=3D"BORDER-RIGHT: medium none; PADDING-RIGHT: 5.4pt; =
+BORDER-TOP: windowtext 0.5pt solid; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: =
+0in; BORDER-LEFT: medium none; WIDTH: 95.4pt; PADDING-TOP: 0in; =
+BORDER-BOTTOM: windowtext 0.5pt solid"=20
+    vAlign=3Dtop width=3D127>
+      <P class=3Dtable><B=20
+      style=3D"mso-bidi-font-weight: =
+normal">Stage<o:p></o:p></B></P></TD>
+    <TD=20
+    style=3D"BORDER-RIGHT: medium none; PADDING-RIGHT: 5.4pt; =
+BORDER-TOP: windowtext 0.5pt solid; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: =
+0in; BORDER-LEFT: medium none; WIDTH: 2.75in; PADDING-TOP: 0in; =
+BORDER-BOTTOM: windowtext 0.5pt solid"=20
+    vAlign=3Dtop width=3D264>
+      <P class=3Dtable><B=20
+      style=3D"mso-bidi-font-weight: =
+normal">Activities<o:p></o:p></B></P></TD>
+    <TD=20
+    style=3D"BORDER-RIGHT: medium none; PADDING-RIGHT: 5.4pt; =
+BORDER-TOP: windowtext 0.5pt solid; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: =
+0in; BORDER-LEFT: medium none; WIDTH: 81pt; PADDING-TOP: 0in; =
+BORDER-BOTTOM: windowtext 0.5pt solid"=20
+    vAlign=3Dtop width=3D108>
+      <P class=3Dtable><B=20
+      style=3D"mso-bidi-font-weight: =
+normal">Deliverable<o:p></o:p></B></P></TD>
+    <TD=20
+    style=3D"BORDER-RIGHT: medium none; PADDING-RIGHT: 5.4pt; =
+BORDER-TOP: windowtext 0.5pt solid; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: =
+0in; BORDER-LEFT: medium none; WIDTH: 1in; PADDING-TOP: 0in; =
+BORDER-BOTTOM: windowtext 0.5pt solid"=20
+    vAlign=3Dtop width=3D96>
+      <P class=3Dtable><B style=3D"mso-bidi-font-weight: =
+normal">Evaluated=20
+      by...<o:p></o:p></B></P></TD></TR>
+  <TR>
+    <TD=20
+    style=3D"PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: =
+0in; WIDTH: 95.4pt; PADDING-TOP: 0in"=20
+    vAlign=3Dtop width=3D127>
+      <P class=3Dtable>Assess Situation</P></TD>
+    <TD=20
+    style=3D"PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: =
+0in; WIDTH: 2.75in; PADDING-TOP: 0in"=20
+    vAlign=3Dtop width=3D264>
+      <P class=3Dtable=20
+      style=3D"MARGIN-LEFT: 0.25in; TEXT-INDENT: -0.25in; mso-list: l2 =
+level1 lfo9"><![if !supportLists]><SPAN=20
+      style=3D"FONT-FAMILY: Symbol">=B7<SPAN=20
+      style=3D"FONT: 7pt 'Times New =
+Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+      </SPAN></SPAN><![endif]>Identify stakeholders</P>
+      <P class=3Dtable=20
+      style=3D"MARGIN-LEFT: 0.25in; TEXT-INDENT: -0.25in; mso-list: l2 =
+level1 lfo9"><![if !supportLists]><SPAN=20
+      style=3D"FONT-FAMILY: Symbol">=B7<SPAN=20
+      style=3D"FONT: 7pt 'Times New =
+Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+      </SPAN></SPAN><![endif]>Describe desired performance</P>
+      <P class=3Dtable=20
+      style=3D"MARGIN-LEFT: 0.25in; TEXT-INDENT: -0.25in; mso-list: l2 =
+level1 lfo9"><![if !supportLists]><SPAN=20
+      style=3D"FONT-FAMILY: Symbol">=B7<SPAN=20
+      style=3D"FONT: 7pt 'Times New =
+Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+      </SPAN></SPAN><![endif]>Assess current performance</P>
+      <P class=3Dtable=20
+      style=3D"MARGIN-LEFT: 0.25in; TEXT-INDENT: -0.25in; mso-list: l13 =
+level1 lfo21"><![if !supportLists]><SPAN=20
+      style=3D"FONT-FAMILY: Symbol">=B7<SPAN=20
+      style=3D"FONT: 7pt 'Times New =
+Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+      </SPAN></SPAN><![endif]>State high-level goals</P>
+      <P=20
+class=3Dtable><![if =
+!supportEmptyParas]><![endif]>&nbsp;<o:p></o:p></P></TD>
+    <TD=20
+    style=3D"PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: =
+0in; WIDTH: 81pt; PADDING-TOP: 0in"=20
+    vAlign=3Dtop width=3D108>
+      <P class=3Dtable>Situational Assessment Report</P></TD>
+    <TD=20
+    style=3D"PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: =
+0in; WIDTH: 1in; PADDING-TOP: 0in"=20
+    vAlign=3Dtop width=3D96>
+      <P class=3Dtable>Stakeholders</P></TD></TR>
+  <TR>
+    <TD=20
+    style=3D"PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: =
+0in; WIDTH: 95.4pt; PADDING-TOP: 0in"=20
+    vAlign=3Dtop width=3D127>
+      <P class=3Dtable>Define and Develop Authentic Activities</P></TD>
+    <TD=20
+    style=3D"PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: =
+0in; WIDTH: 2.75in; PADDING-TOP: 0in"=20
+    vAlign=3Dtop width=3D264>
+      <P class=3Dtable=20
+      style=3D"MARGIN-LEFT: 0.25in; TEXT-INDENT: -0.25in; mso-list: l2 =
+level1 lfo9"><![if !supportLists]><SPAN=20
+      style=3D"FONT-FAMILY: Symbol">=B7<SPAN=20
+      style=3D"FONT: 7pt 'Times New =
+Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+      </SPAN></SPAN><![endif]>Define job functions of trainees</P>
+      <P class=3Dtable=20
+      style=3D"MARGIN-LEFT: 0.25in; TEXT-INDENT: -0.25in; mso-list: l2 =
+level1 lfo9"><![if !supportLists]><SPAN=20
+      style=3D"FONT-FAMILY: Symbol">=B7<SPAN=20
+      style=3D"FONT: 7pt 'Times New =
+Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+      </SPAN></SPAN><![endif]>Identify how product/subject supports job=20
+      functions</P>
+      <P class=3Dtable=20
+      style=3D"MARGIN-LEFT: 0.25in; TEXT-INDENT: -0.25in; mso-list: l28 =
+level1 lfo22"><![if !supportLists]><SPAN=20
+      style=3D"FONT-FAMILY: Symbol">=B7<SPAN=20
+      style=3D"FONT: 7pt 'Times New =
+Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+      </SPAN></SPAN><![endif]>Specify conditions and criteria for job =
+tasks</P>
+      <P=20
+class=3Dtable><![if =
+!supportEmptyParas]><![endif]>&nbsp;<o:p></o:p></P></TD>
+    <TD=20
+    style=3D"PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: =
+0in; WIDTH: 81pt; PADDING-TOP: 0in"=20
+    vAlign=3Dtop width=3D108>
+      <P class=3Dtable>Defined outcomes and specifications for student =
+exercises=20
+      and tests</P></TD>
+    <TD=20
+    style=3D"PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: =
+0in; WIDTH: 1in; PADDING-TOP: 0in"=20
+    vAlign=3Dtop width=3D96>
+      <P class=3Dtable>Subject Matter Experts</P></TD></TR>
+  <TR>
+    <TD=20
+    style=3D"PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: =
+0in; WIDTH: 95.4pt; PADDING-TOP: 0in"=20
+    vAlign=3Dtop width=3D127>
+      <P class=3Dtable>Define Sequence,<BR>Develop Scaffolding and=20
+    Instruction</P></TD>
+    <TD=20
+    style=3D"PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: =
+0in; WIDTH: 2.75in; PADDING-TOP: 0in"=20
+    vAlign=3Dtop width=3D264>
+      <P class=3Dtable=20
+      style=3D"MARGIN-LEFT: 0.25in; TEXT-INDENT: -0.25in; mso-list: l2 =
+level1 lfo9"><![if !supportLists]><SPAN=20
+      style=3D"FONT-FAMILY: Symbol">=B7<SPAN=20
+      style=3D"FONT: 7pt 'Times New =
+Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+      </SPAN></SPAN><![endif]>Determine instructional or motivational=20
+      sequence</P>
+      <P class=3Dtable=20
+      style=3D"MARGIN-LEFT: 0.25in; TEXT-INDENT: -0.25in; mso-list: l2 =
+level1 lfo9"><![if !supportLists]><SPAN=20
+      style=3D"FONT-FAMILY: Symbol">=B7<SPAN=20
+      style=3D"FONT: 7pt 'Times New =
+Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+      </SPAN></SPAN><![endif]>Analyze support knowledge needed to =
+perform=20
+      tasks</P>
+      <P class=3Dtable=20
+      style=3D"MARGIN-LEFT: 0.25in; TEXT-INDENT: -0.25in; mso-list: l2 =
+level1 lfo9"><![if !supportLists]><SPAN=20
+      style=3D"FONT-FAMILY: Symbol">=B7<SPAN=20
+      style=3D"FONT: 7pt 'Times New =
+Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+      </SPAN></SPAN><![endif]>Develop scaffolding where possible</P>
+      <P class=3Dtable=20
+      style=3D"MARGIN-LEFT: 0.25in; TEXT-INDENT: -0.25in; mso-list: l10 =
+level1 lfo23"><![if !supportLists]><SPAN=20
+      style=3D"FONT-FAMILY: Symbol">=B7<SPAN=20
+      style=3D"FONT: 7pt 'Times New =
+Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+      </SPAN></SPAN><![endif]>Develop preparatory instruction if =
+needed</P>
+      <P=20
+class=3Dtable><![if =
+!supportEmptyParas]><![endif]>&nbsp;<o:p></o:p></P></TD>
+    <TD=20
+    style=3D"PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: =
+0in; WIDTH: 81pt; PADDING-TOP: 0in"=20
+    vAlign=3Dtop width=3D108>
+      <P class=3Dtable>Exercises (including scaffolding) and student=20
+    materials.</P></TD>
+    <TD=20
+    style=3D"PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: =
+0in; WIDTH: 1in; PADDING-TOP: 0in"=20
+    vAlign=3Dtop width=3D96>
+      <P class=3Dtable>Users</P></TD></TR>
+  <TR>
+    <TD=20
+    style=3D"BORDER-RIGHT: medium none; PADDING-RIGHT: 5.4pt; =
+BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0in; =
+BORDER-LEFT: medium none; WIDTH: 95.4pt; PADDING-TOP: 0in; =
+BORDER-BOTTOM: windowtext 0.5pt solid"=20
+    vAlign=3Dtop width=3D127>
+      <P class=3Dtable>Package</P></TD>
+    <TD=20
+    style=3D"BORDER-RIGHT: medium none; PADDING-RIGHT: 5.4pt; =
+BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0in; =
+BORDER-LEFT: medium none; WIDTH: 2.75in; PADDING-TOP: 0in; =
+BORDER-BOTTOM: windowtext 0.5pt solid"=20
+    vAlign=3Dtop width=3D264>
+      <P class=3Dtable=20
+      style=3D"MARGIN-LEFT: 0.25in; TEXT-INDENT: -0.25in; mso-list: l2 =
+level1 lfo9"><![if !supportLists]><SPAN=20
+      style=3D"FONT-FAMILY: Symbol">=B7<SPAN=20
+      style=3D"FONT: 7pt 'Times New =
+Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+      </SPAN></SPAN><![endif]>Determine the appropriate sequence for=20
+      activities</P>
+      <P class=3Dtable=20
+      style=3D"MARGIN-LEFT: 0.25in; TEXT-INDENT: -0.25in; mso-list: l2 =
+level1 lfo9"><![if !supportLists]><SPAN=20
+      style=3D"FONT-FAMILY: Symbol">=B7<SPAN=20
+      style=3D"FONT: 7pt 'Times New =
+Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+      </SPAN></SPAN><![endif]>Produce instructor and/or administrator =
+guides</P>
+      <P class=3Dtable=20
+      style=3D"MARGIN-LEFT: 0.25in; TEXT-INDENT: -0.25in; mso-list: l2 =
+level1 lfo9"><![if !supportLists]><SPAN=20
+      style=3D"FONT-FAMILY: Symbol">=B7<SPAN=20
+      style=3D"FONT: 7pt 'Times New =
+Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+      </SPAN></SPAN><![endif]>Assemble or compile into final =
+format</P></TD>
+    <TD=20
+    style=3D"BORDER-RIGHT: medium none; PADDING-RIGHT: 5.4pt; =
+BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0in; =
+BORDER-LEFT: medium none; WIDTH: 81pt; PADDING-TOP: 0in; BORDER-BOTTOM: =
+windowtext 0.5pt solid"=20
+    vAlign=3Dtop width=3D108>
+      <P class=3Dtable>Final product: software, documentation, =
+instructor and/or=20
+      administrator materials</P></TD>
+    <TD=20
+    style=3D"BORDER-RIGHT: medium none; PADDING-RIGHT: 5.4pt; =
+BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0in; =
+BORDER-LEFT: medium none; WIDTH: 1in; PADDING-TOP: 0in; BORDER-BOTTOM: =
+windowtext 0.5pt solid"=20
+    vAlign=3Dtop width=3D96>
+      <P class=3Dtable>Users and =
+Stakeholders</P></TD></TR></TBODY></TABLE>
+<P class=3DMsoBodyText><![if =
+!supportEmptyParas]><![endif]>&nbsp;<o:p></o:p></P><B=20
+style=3D"mso-bidi-font-weight: normal"><SPAN=20
+style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: =
+'Times New Roman'; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: =
+'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: =
+EN-US; mso-bidi-language: AR-SA"><BR=20
+style=3D"PAGE-BREAK-BEFORE: always" clear=3Dall></SPAN></B>
+<P class=3DMsoNormal><B style=3D"mso-bidi-font-weight: normal"><SPAN=20
+style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-bidi-font-size: =
+12.0pt; mso-bidi-font-family: 'Times New Roman'">Exercise:=20
+Address Update #1<o:p></o:p></SPAN></B></P>
+<P class=3DMsoNormal><B style=3D"mso-bidi-font-weight: normal"><SPAN=20
+style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-bidi-font-size: =
+12.0pt; mso-bidi-font-family: 'Times New Roman'"><![if =
+!supportEmptyParas]><![endif]>&nbsp;<o:p></o:p></SPAN></B></P>
+<P class=3DMsoNormal><B style=3D"mso-bidi-font-weight: normal"><SPAN=20
+style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-bidi-font-size: =
+12.0pt; mso-bidi-font-family: 'Times New Roman'">Application=20
+Description<SPAN style=3D"mso-spacerun: yes">&nbsp;=20
+</SPAN><o:p></o:p></SPAN></B></P>
+<P class=3DMsoNormal><SPAN style=3D"FONT-SIZE: 10pt; mso-bidi-font-size: =
+12.0pt">You=20
+are going to launch a call campaign to update your customer mailing =
+list. You=20
+want to build an application that lets your agents update customer =
+addresses=20
+using account data that comes in the Call Record.<o:p></o:p></SPAN></P>
+<P class=3DMsoNormal><SPAN style=3D"FONT-SIZE: 10pt; mso-bidi-font-size: =
+12.0pt"><![if !supportEmptyParas]><![endif]>&nbsp;<o:p></o:p></SPAN></P>
+<P class=3DMsoNormal><B style=3D"mso-bidi-font-weight: normal"><SPAN=20
+style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-bidi-font-size: =
+12.0pt; mso-bidi-font-family: 'Times New Roman'">Objectives<SPAN=20
+style=3D"mso-spacerun: yes">&nbsp; </SPAN><o:p></o:p></SPAN></B></P>
+<P class=3DMsoNormal><SPAN style=3D"FONT-SIZE: 10pt; mso-bidi-font-size: =
+12.0pt">As=20
+you build this application, you will learn to do the=20
+following:<o:p></o:p></SPAN></P>
+<P class=3DMsoNormal=20
+style=3D"MARGIN-LEFT: 0.25in; TEXT-INDENT: -0.25in; mso-list: l5 level1 =
+lfo10"><![if !supportLists]><SPAN=20
+style=3D"FONT-SIZE: 10pt; mso-bidi-font-size: 12.0pt">1.<SPAN=20
+style=3D"FONT: 7pt 'Times New =
+Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+</SPAN></SPAN><![endif]><SPAN=20
+style=3D"FONT-SIZE: 10pt; mso-bidi-font-size: 12.0pt">Launch=20
+Magellan<o:p></o:p></SPAN></P>
+<P class=3DMsoNormal=20
+style=3D"MARGIN-LEFT: 0.25in; TEXT-INDENT: -0.25in; mso-list: l5 level1 =
+lfo11"><![if !supportLists]><SPAN=20
+style=3D"FONT-SIZE: 10pt; mso-bidi-font-size: 12.0pt">2.<SPAN=20
+style=3D"FONT: 7pt 'Times New =
+Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+</SPAN></SPAN><![endif]><SPAN=20
+style=3D"FONT-SIZE: 10pt; mso-bidi-font-size: 12.0pt">Define a new=20
+application<o:p></o:p></SPAN></P>
+<P class=3DMsoNormal=20
+style=3D"MARGIN-LEFT: 0.25in; TEXT-INDENT: -0.25in; mso-list: l5 level1 =
+lfo11"><![if !supportLists]><SPAN=20
+style=3D"FONT-SIZE: 10pt; mso-bidi-font-size: 12.0pt">3.<SPAN=20
+style=3D"FONT: 7pt 'Times New =
+Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+</SPAN></SPAN><![endif]><SPAN=20
+style=3D"FONT-SIZE: 10pt; mso-bidi-font-size: 12.0pt">Connect to a Call=20
+Record<o:p></o:p></SPAN></P>
+<P class=3DMsoNormal=20
+style=3D"MARGIN-LEFT: 0.25in; TEXT-INDENT: -0.25in; mso-list: l5 level1 =
+lfo11"><![if !supportLists]><SPAN=20
+style=3D"FONT-SIZE: 10pt; mso-bidi-font-size: 12.0pt">4.<SPAN=20
+style=3D"FONT: 7pt 'Times New =
+Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+</SPAN></SPAN><![endif]><SPAN=20
+style=3D"FONT-SIZE: 10pt; mso-bidi-font-size: 12.0pt">Create and edit =
+the=20
+following =91widgets=92<o:p></o:p></SPAN></P>
+<P class=3DMsoNormal=20
+style=3D"MARGIN-LEFT: 0.5in; TEXT-INDENT: -0.25in; mso-list: skip"><SPAN =
+
+style=3D"FONT-SIZE: 10pt; mso-bidi-font-size: 12.0pt">- call record=20
+display<o:p></o:p></SPAN></P>
+<P class=3DMsoNormal=20
+style=3D"MARGIN-LEFT: 0.5in; TEXT-INDENT: -0.25in; mso-list: skip"><SPAN =
+
+style=3D"FONT-SIZE: 10pt; mso-bidi-font-size: 12.0pt">- stationary =
+button=20
+bar<o:p></o:p></SPAN></P>
+<P class=3DMsoNormal=20
+style=3D"MARGIN-LEFT: 0.5in; TEXT-INDENT: -0.25in; mso-list: skip"><SPAN =
+
+style=3D"FONT-SIZE: 10pt; mso-bidi-font-size: 12.0pt">- script=20
+display<o:p></o:p></SPAN></P>
+<P class=3DMsoNormal=20
+style=3D"MARGIN-LEFT: 0.5in; TEXT-INDENT: -0.25in; mso-list: skip"><SPAN =
+
+style=3D"FONT-SIZE: 10pt; mso-bidi-font-size: 12.0pt">- command buttons =
+(to=20
+navigate between screens, update data, and terminate=20
+calls)<o:p></o:p></SPAN></P>
+<P class=3DMsoNormal=20
+style=3D"MARGIN-LEFT: 0.5in; TEXT-INDENT: -0.25in; mso-list: skip"><SPAN =
+
+style=3D"FONT-SIZE: 10pt; mso-bidi-font-size: 12.0pt">- entry fields (to =
+display=20
+and edit data)<o:p></o:p></SPAN></P>
+<P class=3DMsoNormal=20
+style=3D"MARGIN-LEFT: 0.5in; TEXT-INDENT: -0.25in; mso-list: skip"><SPAN =
+
+style=3D"FONT-SIZE: 10pt; mso-bidi-font-size: 12.0pt">-=20
+labels<o:p></o:p></SPAN></P>
+<P class=3DMsoNormal=20
+style=3D"MARGIN-LEFT: 0.25in; TEXT-INDENT: -0.25in; mso-list: l5 level1 =
+lfo11"><![if !supportLists]><SPAN=20
+style=3D"FONT-SIZE: 10pt; mso-bidi-font-size: 12.0pt">5.<SPAN=20
+style=3D"FONT: 7pt 'Times New =
+Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+</SPAN></SPAN><![endif]><SPAN=20
+style=3D"FONT-SIZE: 10pt; mso-bidi-font-size: 12.0pt">Save an=20
+application<o:p></o:p></SPAN></P>
+<P class=3DMsoNormal><SPAN style=3D"FONT-SIZE: 10pt; mso-bidi-font-size: =
+12.0pt"><![if !supportEmptyParas]><![endif]>&nbsp;<o:p></o:p></SPAN></P>
+<P class=3DMsoNormal><B style=3D"mso-bidi-font-weight: normal"><SPAN=20
+style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-bidi-font-size: =
+12.0pt; mso-bidi-font-family: 'Times New Roman'">Principles<SPAN=20
+style=3D"mso-spacerun: yes">&nbsp; </SPAN><o:p></o:p></SPAN></B></P>
+<P class=3DMsoNormal=20
+style=3D"MARGIN-LEFT: 0.25in; TEXT-INDENT: -0.25in; mso-list: l2 level1 =
+lfo9"><![if !supportLists]><SPAN=20
+style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Symbol; mso-bidi-font-size: =
+12.0pt">=B7<SPAN=20
+style=3D"FONT: 7pt 'Times New =
+Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+</SPAN></SPAN><![endif]><SPAN=20
+style=3D"FONT-SIZE: 10pt; mso-bidi-font-size: 12.0pt">The Call Record =
+Display and=20
+Stationary Button Bar are created automatically.<o:p></o:p></SPAN></P>
+<P class=3DMsoNormal=20
+style=3D"MARGIN-LEFT: 0.25in; TEXT-INDENT: -0.25in; mso-list: l2 level1 =
+lfo9"><![if !supportLists]><SPAN=20
+style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Symbol; mso-bidi-font-size: =
+12.0pt">=B7<SPAN=20
+style=3D"FONT: 7pt 'Times New =
+Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+</SPAN></SPAN><![endif]><SPAN=20
+style=3D"FONT-SIZE: 10pt; mso-bidi-font-size: 12.0pt">Select a widget to =
+create by=20
+going to Edit|Add Widget.<o:p></o:p></SPAN></P>
+<P class=3DMsoNormal=20
+style=3D"MARGIN-LEFT: 0.25in; TEXT-INDENT: -0.25in; mso-list: l2 level1 =
+lfo9"><![if !supportLists]><SPAN=20
+style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Symbol; mso-bidi-font-size: =
+12.0pt">=B7<SPAN=20
+style=3D"FONT: 7pt 'Times New =
+Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+</SPAN></SPAN><![endif]><SPAN=20
+style=3D"FONT-SIZE: 10pt; mso-bidi-font-size: 12.0pt">Position widgets =
+by holding=20
+down the left mouse button and dragging the mouse.<o:p></o:p></SPAN></P>
+<P class=3DMsoNormal=20
+style=3D"MARGIN-LEFT: 0.25in; TEXT-INDENT: -0.25in; mso-list: l2 level1 =
+lfo9"><![if !supportLists]><SPAN=20
+style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Symbol; mso-bidi-font-size: =
+12.0pt">=B7<SPAN=20
+style=3D"FONT: 7pt 'Times New =
+Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+</SPAN></SPAN><![endif]><SPAN=20
+style=3D"FONT-SIZE: 10pt; mso-bidi-font-size: 12.0pt">Edit a widget=92s =
+attributes=20
+by clicking on it with the right mouse button.<o:p></o:p></SPAN></P>
+<P class=3DMsoCaption><A name=3D_Ref448186429></A><A =
+name=3D_Toc448614488><SPAN=20
+style=3D"mso-bookmark: _Ref448186429">Figure </SPAN>5: Sample student =
+exercise</A>=20
+</P>
+<H2><A name=3D_Toc448614438></A><A name=3D_Toc459087706><SPAN=20
+style=3D"mso-bookmark: _Toc448614438">Summary</SPAN></A></H2>
+<P class=3DMsoBodyText>In this paper I have reviewed the learning =
+theories that=20
+have influenced instructional technology, ranging from early =
+behaviorism,=20
+through cognitivism, humanism, and social learning, and up to the =
+relatively=20
+recent orientation of cybernetics. I then discussed three models of=20
+instructional design that have influenced the practice of instructional=20
+designer: Dick=92s and Carey=92s ISD, Gagn=E9=92s nine events of =
+instruction, and=20
+Tripp=92s and Bichelmeyer=92s rapid prototyping. I discussed how each =
+model related=20
+to the learning orientations of behaviorism, cognitivism, and =
+cybernetics.=20
+Lastly, I outlined my own model and related it to principles of situated =
+
+learning as well as to the models and orientations I had previously =
+discussed.<A=20
+name=3D_Toc448016041></A></P><SPAN style=3D"mso-bookmark: =
+_Toc448016041"></SPAN>
+<H1>References</H1>
+<P class=3DMsoBodyText>Association for Educational Communication and =
+Technology.=20
+(1994). <I>The definition of educational technology</I> . Washington: =
+DC:=20
+Association for Educational Communication and Technology.</P>
+<P class=3DMsoBodyText>Bandura, A. (1971). <I>Social learning =
+theory</I>. NeW=20
+York: General Learning Press.</P>
+<P class=3DMsoBodyText>Bigge, M. L. (1982). <I>Learning theories for =
+teachers</I>.=20
+New York: Harper &amp; Row, Publishers, Inc.</P>
+<P class=3DMsoBodyText>Clark, R. (1989). Current progress and future =
+directions=20
+for research in instructional technology. <I>Educationall Technology =
+Research=20
+and Development, 37</I>(1), 57-66.</P>
+<P class=3DMsoBodyText>Dick, W., &amp; Carey, L. (1996). <I>The =
+systematic design=20
+of instruction</I>. (4th ed.). New York: Harper Collins College =
+Publishers.</P>
+<P class=3DMsoBodyText>Duffy, T. M., &amp; Cunningham, D. J. (1996).=20
+Constructivism: Implications for the design and delivery of instruction. =
+In D.=20
+H. Jonassen (Ed.), <I>Handbook of Research for Educational =
+Communications and=20
+Technology</I> (pp. 170-198). New York: Simon &amp; Schuster =
+Macmillan.</P>
+<P class=3DMsoBodyText>Edmonds, G. S., Branch, R. C., &amp; Mukherjee, =
+P. (1994).=20
+A conceptual framework for comparing instructional design models. =
+<I>Educational=20
+Technology Research and Development, 42</I>(4), 55-72.</P>
+<P class=3DMsoBodyText>Gagne, R. M., Briggs, L. J., &amp; Wager, W. W. =
+(1992).=20
+<I>Principles of instructional design</I>. (4th ed.). Fort Worth, TX: =
+Harcourt=20
+Brace Javonovich College Publishers.</P>
+<P class=3DMsoBodyText>Gustafson, K. L. (1991). <I>Survey of =
+instructional=20
+development</I>. (2nd ed.). Syracuse University: ERIC Clearinghouse on=20
+Infromation Resources.</P>
+<P class=3DMsoBodyText>Hughes, M. (1998). Active learning for software =
+products.=20
+<I>Technical Communication, 45</I>(3), 343-352.</P>
+<P class=3DMsoBodyText>Kearsley, G. (1994). The theories into practice =
+database.=20
+<I>http://www.lincoln.ac.nz/educ/tip/1.htm</I>.</P>
+<P class=3DMsoBodyText>Lave, J., &amp; Wenger, E. (1990). <I>Situated =
+learning:=20
+Legitimate peripheral participation</I>. Cambridge, UK: Cambridge =
+University=20
+Press.</P>
+<P class=3DMsoBodyText>Merriam, S. B., &amp; Caffarella, R. S. (1991). =
+<I>Learning=20
+in adulthood: A comprehensive guide</I>. San Francisco: Jossey-Bass=20
+Publishers.</P>
+<P class=3DMsoBodyText>Pask, G. (1975). <I>Conversation, cognition, and=20
+learning</I>. New York: Elsevier.</P>
+<P class=3DMsoBodyText>Romiszowski, A. J. (1986). <I>Developing =
+auto-instructional=20
+materials</I>. New York: Michols Publishing Company.</P>
+<P class=3DMsoBodyText>Smith, L. P., &amp; Ragan, T. J. (1993). =
+Introduction to=20
+instructional design. In L. P. Smith &amp; T. J. Ragan (Eds.), =
+<I>Instructional=20
+Design</I> (pp. 1-24). New York: Macmillan.</P>
+<P class=3DMsoBodyText>Smudde, P. (1991). A Practical model of the=20
+document-development process. <I>Technical Communication, 38</I>(3),=20
+316-323.</P>
+<P class=3DMsoBodyText>Tripp, S., &amp; Bichelmeyer, B. (1990). Rapid =
+prototyping:=20
+An alternative instructional design strategy. <I>Educational Technolgy =
+Research=20
+and Design, 38</I>(1), 31-44.</P>
+<P class=3DMsoBodyText>Young, M. F. (1993). Instructional design for =
+situated=20
+learning. <I>Educational Technology, Research and Development, =
+41</I>(1),=20
+43-58.</P></DIV></BODY></HTML>

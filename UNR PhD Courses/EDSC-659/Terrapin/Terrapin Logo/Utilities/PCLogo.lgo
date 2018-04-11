@@ -1,0 +1,270 @@
+; PCLogo.lgo
+; this file loads PC Logo 2.0 compatible commands
+
+Print `Loading PC Logo 2.0 extensions, please wait...`
+
+MAKE "@@VERBOSE GPROP "PREFS "VERBOSE
+MAKE "@@REPLACE.PRIMITIVES GPROP "PREFS "REPLACE.PRIMITIVES
+PPROP "PREFS "VERBOSE "FALSE
+PPROP "PREFS "REPLACE.PRIMITIVES "TRUE
+
+To White
+	Output [255 255 255]
+End
+
+To Black
+	Output [0 0 0]
+End
+
+To Red
+	Output [255 0 0]
+End
+
+To Orange
+	Output [255 159 63]
+End
+
+To Yellow
+	Output [255 255 0]
+End
+
+To Green
+	Output [0 128 0]
+End
+
+To Blue
+	Output [0 0 255]
+End
+
+To Purple
+	Output [255 0 255]
+End
+
+To Aqua
+	Output [0 255 255]
+End
+
+To Brown
+	Output [159 95 63]
+End
+
+To Lime
+	Output [0 255 0]
+End
+
+To Navy
+	Output [63 63 191]
+End
+
+To Silver
+	Output [192 192 192]
+End
+
+To Gold
+	Output [255 223 63]
+End
+
+To Gray
+	Output [160 160 164]
+End
+
+To Pink
+	Output [255 127 191]
+End
+
+;To Public [:n]
+;end
+
+;Alias SETXY SETPOS
+
+;To GetMode
+;	 Output GPROP "Screen "Colors
+;End
+
+;To SetMode :n
+;End
+
+To ScreenFacts
+	Local "mode
+	Make "mode "SPLITSCREEN
+	If GProp "Graphics "Maximized [Make "mode "FULLSCREEN]
+	If GProp "Listener "Maximized [Make "mode "TEXTSCREEN]
+	Local "Colors
+	Make "Colors GProp "Screen "Colors
+	(Local "Size "x "y)
+	Make "Size GProp "Graphics "Size
+	Make "x (First :Size) / 2
+	Make "y (Last :Size) / 2
+	Op (List (BaseColor Bg) :mode 10 (GProp "Graphics "WrapMode) 1 :Colors (list :x :y))
+End
+
+To TurtleFacts
+	Op (Se GetXY Heading Pen BaseColor PenColor Shown? Width Font [[]] (List Origin) (List Extent))
+End
+
+To SetTurtleFacts :l
+	Local "n
+	Make "n Item 1 :l
+	If not Empty? :n SetX :n
+	Make "n Item 2 :l
+	If not Empty? :n SetY :n
+	Make "n Item 3 :l
+	If not Empty? :n Seth :n
+	(Local "penstate "color)
+	Make "penstate Item 4 :l
+	If Empty? :penstate Make "penstate Pen
+	Make "color Item 5 :l
+	If Empty? :color Make "color pc
+	SetPen :penstate :color
+	Make "n Item 6 :l
+	If not Empty? :n [If :n [St][Ht]]
+	Make "n Item 7 :l
+	If not Empty? :n SetWidth :n
+	(Local "font "size "face)
+	Make "n Font
+	Make "font Item 8 :l
+	if Empty? :font Make "font Item 1 :n
+	Make "size Item 9 :l
+	if Empty? :size Make "size Item 2 :n
+	Make "face Item 10 :l
+	if Empty? :face Make "face Item 3 :n
+	SetFont :font :size :face
+	; no Turtle name
+	Make "n Item 12 :l
+	if not Empty? :n SetOrigin :n
+	Make "n Item 13 :l
+	if not Empty? :n SetExtent :n
+End
+
+To PenColor
+	Op BaseColor GProp First Who "PENCOLOR
+END
+
+ALIAS SCREENFACTS SF
+ALIAS TURTLEFACTS TF
+ALIAS SETTURTLEFACTS SETTF
+
+BuryProc [White Black Red Orange Yellow Green Lime Blue Navy Purple Aqua Pink Brown Gray Gold Silver]
+BuryProc [Readword GetMode SetMode Public SetSpeed Speed]
+BuryProc [ScreenFacts TurtleFacts SetTurtleFacts PenColor]
+
+Make "ExpertMode "true
+
+BuryName [ExpertMode]
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+; Work Tools
+
+To NameWindow :window :text
+	PProp :window "Title :text
+End
+
+TO PPRINT :STRING
+	LOCAL "CHARNUMLIN
+	MAKE "CHARNUMLIM ((FIRST (WINSIZE "Listener)) / 10) - 1
+	IF LIST? :STRING [PRINT.LIST :STRING 0] [PRINT.STRING :STRING 1]
+END
+
+ALIAS PPRINT PPR
+
+TO PRINT.STRING :STRING :CHAR
+	IF EMPTY? :STRING [PR [] STOP]
+	LOCAL "NEXT
+	MAKE "NEXT COUNT.NEXT.WORD BUTFIRST :STRING
+	IF AND (:NEXT + :CHAR) > :CHARNUMLIM (FIRST :STRING) = CHAR 32	\
+	  [PRINT [] make "char 0] [TYPE FIRST :STRING]
+	PRINT.STRING BUTFIRST :STRING :CHAR + 1
+END
+
+TO PRINT.LIST :LIST :CHAR
+	IF EMPTY? :LIST [PR [] STOP]
+	LOCAL "NEXT
+	IF NOT EMPTY? BUTFIRST :LIST [MAKE "NEXT COUNT FIRST BUTFIRST :LIST]
+	IF (:NEXT + :CHAR) > :CHARNUMLIM [PRINT [] TYPE FIRST :LIST TYPE CHAR 32 MAKE "CHAR 1 + COUNT FIRST :LIST] \
+	   [TYPE FIRST :LIST TYPE CHAR 32 MAKE "CHAR 1 + :CHAR + COUNT FIRST :LIST]
+	PRINT.LIST BUTFIRST :LIST :CHAR
+END
+
+TO COUNT.NEXT.WORD :STRING
+	IF EMPTY? :STRING [OUTPUT 0]
+	IF (FIRST :STRING) = CHAR 32 [OUTPUT 0]
+	OUTPUT 1 + COUNT.NEXT.WORD BUTFIRST :STRING
+END
+
+BuryProc [NameWindow PPRINT PRINT.STRING PRINT.LIST COUNT.NEXT.WORD]
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+; Turtle Tools
+
+To Touching? :number
+ Output HIT? :number
+End
+
+To Touches [:list []]
+ Local "tlist Make "tlist []
+ If Empty? :list [Output .Touch allturtles] [Output .Touch :list]
+End
+
+To .Touch :list
+ If Empty? :list [output :tlist]
+ If Word? Who [Make "who (list who)] [make "who who]
+ If And Touching? First :list Not.Equal? First :list First :who [make "tlist lput First :list :tlist]
+ Output .Touch Butfirst :list
+End
+
+To Turtlecircle :number
+ If :number > (Turtles - 1 ) [Setturtles :number]
+ Hideturtle
+ Tellall 0 (:number - 1)
+ PenUp Home
+ Each [SetHeading (360/:number) * Who Forward 10 + :number * 6 / pi]
+ PenDown ShowTurtle
+End
+
+Alias Turtlecircle TCir
+
+To Turtlerow :number
+ If :number > (Turtles - 1 ) [Setturtles :number]
+ Hideturtle 
+ Tellall 0 (:number - 1)
+ PenUp Home
+ Each [SetX 12 - 12 * :number + 24 * Who]
+ PenDown ShowTurtle
+End
+
+Alias Turtlerow TRow
+
+To Turtlecolumn :number
+ If :number > (Turtles - 1 ) [setturtles :number]
+ Hideturtle
+ Tellall 0 (:number - 1)
+ PenUp Home
+ Each [SetY 12 - 12 * :number + 24 * Who]
+ Setheading 90
+ PenDown ShowTurtle
+End
+
+Alias Turtlecolumn TCol
+
+To Scatter
+ TellAll 0 (turtles - 1)
+ PenUp Seth 0
+ Each [SetXY List ((Abs (First Item 7 SF)) - (Random (2 * Abs (First Item 7 SF)))) ((Last Item 7 SF) - (Random (2 * (Last Item 7 SF))))]
+ PenDown ShowTurtle
+End
+
+To AllTurtles
+	Output Every "turtle
+End
+
+BuryProc [Touching? .Touch Touches TurtleCircle TurtleRow Turtlecolumn Scatter Allturtles] 
+
+PPROP "PREFS "VERBOSE :@@VERBOSE
+PPROP "PREFS "REPLACE.PRIMITIVES :@@REPLACE.PRIMITIVES
+ERASE "@@VERBOSE
+ERASE "@@REPLACE.PRIMITIVES
+
+Print `PC Logo 2.0 extensions loaded`
+

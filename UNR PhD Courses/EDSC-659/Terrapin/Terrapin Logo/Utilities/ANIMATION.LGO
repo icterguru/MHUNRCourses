@@ -1,0 +1,101 @@
+; Procedures for doing turtle animation by "flipping" through a list of shapes.
+;
+; To begin animation, invoke ANIMATE with the turtle number or name,
+; the list of shapes and the timing for each image. (1000 = 1 second approximately)
+;
+; To stop the animation, invoke DEANIMATE with the turtle number or name.
+;
+; To find out if a turtle is currently animated, invoke ANIMATED? with the
+; turtle number or name. This procedure returns "TRUE if the turtle is animated
+; and "FALSE if it is not animated.
+;
+; To change the timing, invoke SETTIMING with the turtle number or name and
+; a new value for the timing.
+;
+; To change the shape list, invoke SETSHAPES with the turtle number or name
+; and a new list of shapes. (Do not get confused with SETSHAPE.)
+
+; Program written by Stan Munson (trollopite@hotmail.com).
+
+TO ANIMATE :TURTLE :SHAPES :TIMING
+IF ANIMATED? :TURTLE THEN DEANIMATE :TURTLE
+PPROP :TURTLE "ANIMATION.SHAPES :SHAPES
+PPROP :TURTLE "ANIMATION.TIMING :TIMING
+PPROP :TURTLE "ANIMATION.ID LAUNCH LIST "ANIMATION QUOTE (:TURTLE)
+END
+
+TO ANIMATION :TURTLE
+WHILE ["TRUE] [FOREACH GPROP :TURTLE "ANIMATION.SHAPES \
+[ASK :TURTLE [SETSHAPE "? WAIT GPROP :TURTLE "ANIMATION.TIMING]]]
+END
+
+TO ANIMATED? :TURTLE
+OUTPUT NOT EMPTY? GPROP :TURTLE "ANIMATION.ID
+END
+
+TO DEANIMATE :TURTLE
+IF NOT ANIMATED? :TURTLE THEN STOP
+LOCAL "ID
+MAKE "ID GPROP :TURTLE "ANIMATION.ID
+REMPROP :TURTLE "ANIMATION.ID
+REMPROP :TURTLE "ANIMATION.SHAPES
+REMPROP :TURTLE "ANIMATION.TIMING
+(HALT :ID)
+END
+
+TO SETTIMING :TURTLE :TIMING
+IF NOT ANIMATED? :TURTLE THEN STOP
+PPROP :TURTLE "ANIMATION.TIMING :TIMING
+END
+
+TO SETSHAPES :TURTLE :SHAPES
+  IF NOT ANIMATED? :TURTLE THEN STOP
+PPROP :TURTLE "ANIMATION.SHAPES :SHAPES
+END
+
+
+
+
+
+
+
+
+
+
+
+
+; AAA is a demonstration of animation
+; ZZZ will stop the demonstration
+
+TO AAA
+(LOCAL "WELCOME "TO "TERRAPIN "LOGO "AND. "HAVE "FUN "EXPLORING "TIMING)
+MAKE "TIMING 200
+MAKE "WELCOME [|~W| |~E| |~L| |~C| |~O| |~M| |~E| |~ |]
+MAKE "TO [|~T| |~O| |~ |]
+MAKE "TERRAPIN [|~T| |~E| |~R| |~R| |~A| |~P| |~I| |~N| |~ |]
+MAKE "LOGO [|~L| |~O| |~G| |~O| |~ |]
+MAKE "AND. [|~A| |~N| |~D| |~ |]
+MAKE "HAVE [|~H| |~A| |~V| |~E| |~ |]
+MAKE "FUN [|~F| |~U| |~N| |~ |]
+MAKE "EXPLORING [|~E| |~X| |~P| |~L| |~O| |~R| |~I| |~N| |~G| |~ |]
+TELLALL 0 15 CS HOME
+EACH [SETPC PICK BUTMEMBER "WHITE COLORS]
+EACH [ST SETH WHO * 360 / TURTLES PU FD 100 SETH 0]
+ANIMATE 0 :WELCOME :TIMING
+ANIMATE 2 :TO :TIMING
+ANIMATE 4 :TERRAPIN :TIMING
+ANIMATE 6 :LOGO :TIMING
+ANIMATE 8 :AND. :TIMING
+ANIMATE 10 :HAVE :TIMING
+ANIMATE 12 :FUN :TIMING
+ANIMATE 14 :EXPLORING :TIMING
+FOREACH [1 3 5 7 9 11 13 15] [ANIMATE "? [MOOSE ROACH SAILBOAT] 400]
+FOREACH [1 3 5 7 9 11 13 15] [SETTIMING "? 100 * RANDOM 10]
+END
+
+TO ZZZ
+FOREACH ALLTURTLES [DEANIMATE "?]
+END
+
+CT AAA
+PRINT [|Enter ZZZ to stop the animation demo.|]

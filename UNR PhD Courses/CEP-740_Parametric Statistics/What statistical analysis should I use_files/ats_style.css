@@ -1,0 +1,36 @@
+H1 {
+	COLOR: #ff0000; FONT-FAMILY: "Times New Roman", serif; TEXT-ALIGN: left
+}
+H2 {
+	COLOR: rgb(255,0,0); FONT-FAMILY: "Times New Roman", serif; TEXT-ALIGN: left
+}
+H3 {
+	COLOR: rgb(255,0,0); FONT-FAMILY: "Times New Roman", serif; TEXT-ALIGN: left
+}
+H4 {
+	COLOR: rgb(255,0,0); FONT-FAMILY: "Times New Roman", serif; TEXT-ALIGN: left
+}
+PRE {
+	FONT-FAMILY: "Courier New", Courier, monospace
+}
+.text {
+	FONT-FAMILY: "Times New Roman", serif
+}
+.graybar {
+	FONT-WEIGHT: bold; FONT-FAMILY: "Times New Roman", serif
+}
+.headline {
+	FONT-SIZE: 12pt; COLOR: rgb(0,51,51)
+}
+BODY {
+	FONT-FAMILY: "Times New Roman", serif; BACKGROUND-COLOR: #ffffff
+}
+.crumbs {
+	PADDING-RIGHT: 1px; PADDING-LEFT: 4px; FONT-SIZE: 11px; PADDING-BOTTOM: 3px; COLOR: #000000; PADDING-TOP: 1px; FONT-FAMILY: Verdana,Arial,Helvetica,Sans-Serif; LETTER-SPACING: 0px
+}
+DIV.crumbs A {
+	COLOR: #000000; TEXT-DECORATION: underline
+}
+DIV.crumbs A:hover {
+	COLOR: #ff0000; TEXT-DECORATION: underline
+}

@@ -1,0 +1,333 @@
+; Sliding tile puzzle
+;
+; Program written by Stan Munson (trollopite@hotmail.com).
+
+; preliminary manipulations
+;
+
+to setup
+setup.globals
+setup.screen
+setup.demo
+end
+
+to setup.globals
+make "rows 3
+make "cols 3
+make "puzzle.size 300
+make "cell.size :puzzle.size / :rows
+make "blank.cell (:rows * :cols) - 1
+make "blank.tile :blank.cell
+make "blank.position []
+make "last.move :blank.cell
+make "scramble.factor 40
+make "scramble.count :rows * :scramble.factor
+make "move.count 0
+end
+
+to setup.screen
+
+; adjust the original graphics window
+
+pprops "graphics [title |Sliding Tile Puzzle| drawsize [300 300] position [270 70]]
+setmouseshape 15
+hideturtle
+
+; create the controls window, make it invisible until all controls are placed
+
+declare "graphics "controls
+pprops "controls [title |STP| drawsize [156 300] position [70 70] visible false]
+
+declare "statictext "size.note
+pprops "size.note [size [130 16] position [0 138] text |Choose a puzzle size|]
+
+declare "radiobutton "size.1
+pprops "size.1 [size [130 18] position [0 122] text |3 x 3 puzzle| run [switch.size 1]]
+pprop "size.1 "state "true
+
+declare "radiobutton "size.2
+pprops "size.2 [size [130 18] position [0 104] text |4 x 4 puzzle| run [switch.size 2]]
+
+declare "radiobutton "size.3
+pprops "size.3 [size [130 18] position [0 86] text |5 x 5 puzzle| run [switch.size 3]]
+
+declare "statictext "picture.note
+pprops "picture.note [size [130 90] position [0 28] text |Choose a puzzle picture by either dragging one from Backgrounds or selecting File/Load Picture from the menu to use your own favorite picture. Click on free tiles to move them.|]
+
+declare "statictext "moves
+pprops "moves [size [130 16] position [0 -31] text |Moves:|]
+
+declare "button "play.button
+pprops "play.button [size [130 30] position [0 -60] text |Play| run [play.puzzle]]
+
+declare "button "instructions.button
+pprops "instructions.button [size [130 30] position [0 -95] text |Instructions| run [show.instructions]]
+
+declare "button "quit.button
+pprops "quit.button [size [130 30] position [0 -130] text |Quit| run [quit.routine]]
+
+pprop "controls "visible "true
+
+; eventually get rid of the Listener
+pprop "listener "visible "false
+
+; make sure the colorpicker and the toolbox
+; are showing. really only need the toolbox
+; with the backgrounds showing
+
+pprop "colorpicker "visible "true
+
+pprops "toolbox [visible true panel |Backgrounds|]
+
+end
+
+to setup.demo
+snowflake
+; grid.lines
+; chop.puzzle
+; wait 250
+; clearscreen
+; place.tiles
+; scramble.puzzle
+; wait 1000
+; clearscreen
+; snowflake
+end
+
+to switch.size :button
+turn.off "size. butmember :button [1 2 3]
+make "rows :button + 2
+make "cols :rows
+end
+
+to turn.off :radio :buttons
+if empty? :buttons [stop]
+pprop word :radio first :buttons "state "false
+turn.off :radio butfirst :buttons
+end
+
+to show.instructions
+if empty? gprop "Instructions "visible [create.instructions]
+make "standard.output gprop "Instructions "channel
+setactivewindow "Instructions
+type "~C
+print "|Welcome to the world of Sliding Tile Puzzles!|
+print "
+print "|First select the level of difficulty:|
+print "
+print "|  3 x 3 is pretty easy|
+print "|  4 x 4 is not too bad|
+print "|  5 x 5 is a challenge|
+print "
+print "|Then load a picture:|
+print "
+print "|  Just drag any one of the images from the Backgrounds panel of the|
+print "|  Toolbox to the Sliding Tile Puzzle window. Some pictures will work|
+print "|  better than others so you will have to play around to see which|
+print "|  work best.|
+print "
+print "|  Or, you can use the 'File/Load picture' menu item to select any|
+print "|  BMP or JPG image you have on your computer -- your favorite Logo|
+print "|  drawing or even a picture of yourself!|
+print "
+print "|Click on a tile to move it. Your moves are counted as you try to|
+print "|solve the picture, but you are only in competition with yourself --|
+print "|unless you challenge a friend to solve a puzzle in less moves.|
+end
+
+to create.instructions
+declare "output "Instructions
+pprops "Instructions [position [12 12] drawsize [600 400]]
+end
+
+to quit.routine
+command findmenuid "debug "|restart logo|
+end
+
+to chop.puzzle
+tell 0
+penup
+local "x
+local "y
+make "x -:puzzle.size / 2
+make "y (:puzzle.size / 2) - :cell.size
+make "valid.moves array (:rows * :cols)
+make "anchors array (:rows * :cols)
+make "positions array (:rows * :cols)
+chop.rows 0 :x :y
+make "solution listarray :positions
+make "blank.position gprop thing word "tile. ((:rows * :cols) - 1) "anchor
+end
+
+to chop.rows :row :x :y
+if :row = :rows [stop]
+chop.cols 0 :x :y
+chop.rows (:row + 1) :x (:y - :cell.size)
+end
+
+to chop.cols :col :x :y
+if :col = :cols [stop]
+local "cell
+make "cell (:row * :rows) + :col
+aset :positions :cell :cell
+setxy list :x :y
+make word "tile. :cell snap :cell.size :cell.size
+local "anchor
+make "anchor list (:x + :cell.size / 2) (:y + :cell.size / 2)
+pprops thing word "tile. :cell (list "row :row "col :col "cell :cell "anchor :anchor)
+aset :anchors :cell :anchor
+local "run.list
+make "run.list parse (word "move.cell char 32 "gprop char 32 "thing char 32 char 34 word "tile. :cell char 32 char 34 "cell)
+pprop thing word "tile. :cell "run :run.list
+aset :valid.moves :cell valid.move :row :col
+chop.cols (:col + 1) (:x + :cell.size) :y
+end
+
+to valid.move :row :col
+local "cells
+make "cells []
+if (:row + 1) < :rows [make "cells fput ((:row + 1) * :rows + :col) :cells]
+if (:row - 1) >= 0    [make "cells fput ((:row - 1) * :rows + :col) :cells]
+if (:col + 1) < :cols [make "cells fput ((:row * :rows) + (:col + 1)) :cells]
+if (:col - 1) >= 0    [make "cells fput ((:row * :rows) + (:col - 1)) :cells]
+output :cells
+end
+
+to move.cell :cell
+if not moveable? :cell [clunk stop]
+swap :cell
+update.moves
+if solved? [puzzle.done]
+end
+
+to moveable? :cell
+output member? :cell aget :valid.moves :blank.cell
+end
+
+to swap :cell
+local "tile.in.cell
+make "tile.in.cell aget :positions :cell
+local "old.blank.position
+local "old.blank.cell
+make "old.blank.position aget :anchors :blank.cell
+make "old.blank.cell :blank.cell
+aset :positions :cell :blank.tile
+aset :positions :blank.cell :tile.in.cell
+make "blank.cell :cell
+make "blank.position aget :anchors :tile.in.cell
+pprop thing word "tile. :tile.in.cell "cell :old.blank.cell
+pprop thing word "tile. :tile.in.cell "position :old.blank.position
+end
+
+to update.moves
+make "move.count :move.count + 1
+pprop "moves "text word "|Moves: | :move.count
+end
+
+to solved?
+output equal? :solution listarray :positions
+end
+
+TO SNOWFLAKE
+	setactivewindow "graphics
+	setbg "blue
+	
+	SETTURTLES 6
+	TELLALL 0 5
+	EACH [HT SETH 60 * WHO PU FD 120 SETH TOWARDS [0 0] PD]
+	LOCAL "PATTERN
+	MAKE "PATTERN \
+		[LT 90 FD 5  RT 90 FD 10 \
+		 LT 90 FD 20 RT 90 FD 10 RT 90 FD 20 LT 90 FD 10 \
+		 LT 90 FD 30 RT 90 FD 10 RT 90 FD 30 LT 90 FD 10 \
+		 LT 90 FD 20 RT 90 FD 10 RT 90 FD 20 LT 90 FD 10 \
+		 LT 90 FD 15 RT 90 FD 10 RT 90 FD 15 LT 90 FD 10 \
+		 FD 22]
+	RUN :PATTERN
+	PU HOME EACH [SETH 60 * WHO FD 120 SETH TOWARDS [0 0] PD]
+	PPROP "PREFS "REPLACE.PRIMITIVES "TRUE
+	COPYDEF ".RT "RT
+	COPYDEF ".LT "LT
+	DEFINE "RT [[N] [.LT :N]]
+	DEFINE "LT [[N] [.RT :N]]
+	RUN :PATTERN
+	ERASE RT
+	ERASE .RT
+	ERASE LT
+	ERASE .LT
+	PU HOME
+	TELL 0 PD SETPC "WHITE FILL
+END
+
+to play.puzzle
+make "cell.size :puzzle.size / :rows
+make "scramble.count :rows * :scramble.factor
+make "blank.cell (:rows * :cols) - 1
+make "blank.tile :blank.cell
+make "blank.position []
+make "last.move :blank.cell
+setactivewindow "graphics
+grid.lines
+chop.puzzle
+clearscreen
+place.tiles
+scramble.puzzle
+make "move.count -1
+update.moves
+end
+
+to grid.lines
+setturtles :rows + 1
+tellall 0 :rows
+showturtle
+penup
+setwidth 2
+local "x
+local "y
+make "x -:puzzle.size / 2
+make "y :puzzle.size / 2
+each [setx :x + (who * :cell.size)]
+each [sety :y]
+setheading 180
+pendown
+forward :puzzle.size
+penup
+each [setx :x]
+each [sety :y - (who * :cell.size)]
+setheading 90
+pendown
+forward :puzzle.size
+penup
+hideturtle
+end
+
+to scramble.puzzle
+repeat :scramble.count [swap pick.move]
+end
+
+to pick.move
+local "move
+make "move pick butmember :last.move aget valid.moves :blank.cell
+make "last.move :move
+output :move
+end
+
+to place.tiles
+local "tiles
+make "tiles (:rows * :cols) - 1 ; don't place lower right tile
+place.tile 0 :tiles
+end
+
+to place.tile :tile :tiles
+if :tile = :tiles [stop]
+pprop thing word "tile. :tile "window "graphics
+pprop thing word "tile. :tile "position (gprop thing word "tile. :tile "anchor)
+place.tile (:tile + 1) :tiles
+end
+
+to clunk
+PLAY [M10 N56] 
+end
+
+setup
+

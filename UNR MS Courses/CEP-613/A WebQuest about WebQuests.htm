@@ -1,0 +1,275 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!-- saved from url=(0049)http://webquest.sdsu.edu/webquestwebquest-es.html -->
+<HTML><HEAD><TITLE>A WebQuest about WebQuests</TITLE>
+<META content="WebQuest About WebQuests, Elementary" name=keywords>
+<SCRIPT language=JavaScript>
+<!-- Beginning of JavaScript --------
+/* 
+	JavaScript Timer
+	Written by Jerry Aman, Optima System, June 1, 1996.
+	Part of the PageSpinner distribution.
+ 
+	Portions based upon the JavaScript setTimeout example at:
+	http://home.netscape.com/eng/mozilla/Gold/handbook/javascript/
+
+	We will not be held responsible for any unwanted 
+	effects due to the usage of this script or any derivative.  
+	No warrantees for usability for any specific application are 
+	given or implied.
+
+	You are free to use and modify this script,
+	if the credits above are given in the source code
+*/
+
+var	timerID = null
+var	timerRunning = false
+var	startDate
+var	startSecs
+
+function stopclock()
+{
+	if(timerRunning)
+		clearTimeout(timerID)
+		timerRunning = false
+}
+
+function startclock()
+{
+	startDate = new Date()
+	startSecs = (startDate.getHours()*60*60) + (startDate.getMinutes()*60) 
+						+ startDate.getSeconds()
+
+	stopclock()
+	showtime()
+}
+
+
+/*	-------------------------------------------------
+	showtime()
+	Puts the amount of time that has passed since 
+	loading the page into the field named timerField in 
+	the form named timeForm 
+	-------------------------------------------------	*/
+
+function showtime()
+{
+	// this doesn't work correctly at midnight...
+
+	var now = new Date()
+	var nowSecs = (now.getHours()*60*60) + (now.getMinutes()*60) + now.getSeconds()
+	var elapsedSecs = nowSecs - startSecs;
+
+	var hours = Math.floor( elapsedSecs / 3600 )
+	elapsedSecs = elapsedSecs - (hours*3600)
+
+	var minutes = 	Math.floor( elapsedSecs / 60 )
+	elapsedSecs = elapsedSecs - (minutes*60)
+
+	var seconds = elapsedSecs
+
+	var timeValue = "" + hours
+	timeValue  += ((minutes < 10) ? ":0" : ":") + minutes
+	timeValue  += ((seconds < 10) ? ":0" : ":") + seconds
+
+		// Update display
+	document.timerForm.timerField.value = timeValue 
+	timerID = setTimeout("showtime()",1000)
+	timerRunning = true
+}
+
+
+
+// -- End of JavaScript code -------------- -->
+</SCRIPT>
+
+<META http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<STYLE type=text/css>BODY {
+	FONT-SIZE: 10px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+TABLE {
+	FONT-SIZE: 12px
+}
+H1 {
+	
+}
+H2 {
+	BORDER-TOP: #999999 thin solid; MARGIN-TOP: 30px; FONT-WEIGHT: bold; BORDER-LEFT-COLOR: #999999; MARGIN-BOTTOM: -10px; BORDER-BOTTOM-COLOR: #999999; COLOR: #000099; PADDING-TOP: 10px; BORDER-RIGHT-COLOR: #999999
+}
+A:link {
+	FONT-WEIGHT: bold; COLOR: #2690e6; TEXT-DECORATION: none
+}
+A:visited {
+	FONT-WEIGHT: bold; COLOR: #0000cc; TEXT-DECORATION: none
+}
+A:hover {
+	FONT-WEIGHT: bold; COLOR: #000000; BACKGROUND-COLOR: #ffff00
+}
+</STYLE>
+
+<META content="MSHTML 6.00.2900.3199" name=GENERATOR></HEAD>
+<BODY bgColor=#2690e6 onload=startclock()>
+<CENTER>
+<TABLE borderColor=#000000 cellSpacing=0 cellPadding=25 width=650 align=center 
+bgColor=#ffffff border=1>
+  <TBODY>
+  <TR>
+    <TD>
+      <TABLE cellSpacing=0 cellPadding=10 width=600 align=center border=0>
+        <TBODY>
+        <TR>
+          <TD>
+            <H1 align=center>A WebQuest About WebQuests</H1>
+            <DIV align=center><STRONG>Elementary Grades Version </STRONG></DIV>
+            <P align=center>by <A 
+            href="http://edweb.sdsu.edu/people/bdodge/bdodge.html">Bernie 
+            Dodge</A><BR><A href="http://edweb.sdsu.edu/edtec/" target=_blank>Ed 
+            Tech Department</A>, <A href="http://www.sdsu.edu/" 
+            target=_blank>San Diego State University</A></P></TD>
+          <TD>
+            <H1 align=center><IMG height=167 
+            src="A WebQuest about WebQuests_files/magnify2.jpg" 
+          width=148></H1></TD></TR></TBODY></TABLE>
+      <H2>Introduction</H2>
+      <P>Since early in 1995, teachers everywhere have learned how to use the 
+      web well by adopting the <A href="http://webquest.sdsu.edu/" 
+      target=_blank>WebQuest</A> format to create inquiry-oriented lessons. But 
+      what exactly <I>is</I> a WebQuest? What does it feel like to do one? How 
+      do you know a good one when you see it? In the space of 90 minutes, you're 
+      going to grapple with these questions and more. </P>
+      <H2>The Task</H2>
+      <P>To develop great WebQuests, you need to develop a thorough 
+      understanding of the different possibilities open to you as you create 
+      web-based lessons. One way for you to get there is to critically analyze a 
+      number of webquest examples and discuss them from multiple perspectives. 
+      That's your task in this exercise.</P>
+      <P>By the end of this lesson, you and your group will answer these 
+      questions:</P>
+      <OL>
+        <LI>Which two of example WebQuests listed below are the <I>best</I> 
+        ones? Why? 
+        <LI>Which two are the <I>worst</I>? Why? 
+        <LI>What do <I>best</I> and <I>worst</I> mean to you? </LI></OL>
+      <H2>The Process</H2>
+      <OL>
+        <LI>First, each participant will have a hard copy of <A 
+        href="http://webquest.sdsu.edu/wqworksheet-es.html">the worksheet</A>. 
+        To answer the questions given above, you'll break into groups of four. 
+        Within the group, each of you will take on one of the following 
+        roles:<BR><BR>
+        <TABLE borderColor=#999999 cellSpacing=0 cellPadding=4 border=1>
+          <TBODY>
+          <TR>
+            <TD vAlign=top width="50%" bgColor=#cccccc>
+              <P><IMG height=18 hspace=3 
+              src="A WebQuest about WebQuests_files/clokfce1.gif" width=18 
+              align=bottom> <B>The Efficiency Expert: </B>You value time a great 
+              deal. You believe that too much time is wasted in today's 
+              classrooms on unfocused activity and learners not knowing what 
+              they should be doing at a given moment. To you, a good WebQuest is 
+              one that delivers the most learning bang for the buck. If it's a 
+              short, unambitious activity that teaches a small thing well, then 
+              you like it. If it's a longterm activity, it had better deliver a 
+              deep understanding of the topic it covers, in your view.</P></TD>
+            <TD vAlign=top width="50%" bgColor=#ffffcc>
+              <P><IMG height=18 hspace=3 
+              src="A WebQuest about WebQuests_files/hapyface.gif" width=18 
+              align=bottom> <B>The Affiliator: </B>To you, the best learning 
+              activities are those in which students learn to work together. 
+              WebQuests that force collaboration and create a need for 
+              discussion and consensus are the best in your view. If a WebQuest 
+              could be done by a student working alone, it leaves you 
+            cold.</P></TD></TR>
+          <TR bgColor=#ffffcc>
+            <TD vAlign=top width="50%" bgColor=#ffcc66>
+              <P><IMG height=22 hspace=3 
+              src="A WebQuest about WebQuests_files/atom.gif" width=21 
+              align=bottom> <B>The Altitudinist: </B>Higher level thinking is 
+              everything to you. There's too much emphasis on factual recall in 
+              schools today. The only justification for bringing technology into 
+              schools is if it opens up the possibility that students will have 
+              to analyze information, synthesize multiple perspectives, and take 
+              a stance on the merits of something. You also value sites that 
+              allow for some creative expression on the part of the 
+            learner.</P></TD>
+            <TD vAlign=top width="50%" bgColor=#2690e6>
+              <P><IMG height=18 hspace=3 
+              src="A WebQuest about WebQuests_files/arcade.gif" width=18 
+              align=bottom> <B>The Technophile: </B>You love this internet 
+              thang. To you, the best WebQuest is one that makes the best use of 
+              the technology of the Web. If a WebQuest has attractive colors, 
+              animated gifs, and lots of links to interesting sites, you love 
+              it. If it makes minimal use of the Web, you'd rather use a 
+              worksheet.</P></TD></TR></TBODY></TABLE><BR>
+        <LI>Individually, you'll examine each of the sites below and use the 
+        worksheet to jot down some notes of your opinions of each from the 
+        perspective of your role. You'll need to examine each site fairly 
+        quickly. Don't spend more than 7 minutes on any one site. Your 
+        instructor will keep time using this clock:<BR><BR>
+        <TABLE cellSpacing=0 cellPadding=4 border=0>
+          <TBODY>
+          <TR vAlign=center>
+            <TD>
+              <FORM name=timerForm onsubmit=0><B>&nbsp; Time spent so far: 
+              </B><INPUT size=10 name=timerField> </FORM></TD>
+            <TD><IMG onclick=startclock() height=33 
+              src="A WebQuest about WebQuests_files/restart.jpg" 
+          width=80></TD></TR></TBODY></TABLE><BR>Here are the sites you'll be 
+        analyzing:<BR><BR>
+        <TABLE cellSpacing=0 cellPadding=2 width=550 border=0>
+          <TBODY>
+          <TR>
+            <TD width=215><A 
+              href="http://oncampus.richmond.edu/academics/education/projects/webquests/quilts/" 
+              target=_blank>A Stitch in Time</A></TD>
+            <TD width=327>Create a quilt the represents three cultures</TD></TR>
+          <TR>
+            <TD><A 
+              href="http://www.rippleeffectlearning.com/webquest/Webquest.html" 
+              target=_blank>Bowhead Whale Hunting</A></TD>
+            <TD>What restrictions make sense?</TD></TR>
+          <TR>
+            <TD><A 
+              href="http://www.lubbockisd.org/webquests/MeetImmigrants/index.htm" 
+              target=_blank>Meet the Immigrants</A></TD>
+            <TD>Analyze immigrants from different eras</TD></TR>
+          <TR>
+            <TD><A 
+              href="http://www.geocities.com/Athens/Parthenon/5827/breakout.html" 
+              target=_blank>North Carolina Zoo Breakout</A></TD>
+            <TD>What would happen if they got out?</TD></TR>
+          <TR>
+            <TD><A href="http://www.iwebquest.com/egypt/ancientegypt.htm" 
+              target=_blank>Ancient Egypt WebQuest</A></TD>
+            <TD>Decode a message from Tut's tomb</TD></TR></TBODY></TABLE><BR>
+        <LI>When everyone in the group has seen all the sites, it's time to get 
+        together to answer the questions. One way to proceed would be to go 
+        around and poll each team member for the best two and worst two from 
+        their perspective. Pay attention to each of the other perspectives, even 
+        if at first you think you might disagree with them.<BR><BR>
+        <LI>There will probably not be unanimous agreement, so the next step is 
+        to talk together to hammer out a compromise consensus about your team's 
+        nominations for best and worst. Pool your perspectives and see if you 
+        can agree on what's best for the learner. <EM><STRONG>DO NOT JUST TALLY 
+        UP THE VOTES AND DECLARE A WINNER</STRONG></EM>. Instead, begin to put 
+        aside your individual perspective and come to an agreement that takes 
+        into account all four perspectives.<BR><BR>
+        <LI>One person in each group should record the group's thoughts.<BR><BR>
+        <LI>When debriefing time is called, report your results to the whole 
+        class. Do you think the other groups will agree with your conclusions? 
+        </LI></OL>
+      <H2>Conclusion</FONT></H2>
+      <P>Ideally, this exercise will provide you with a larger pool of ideas to 
+      work with as you develop your WebQuest-making skills. The best WebQuest is 
+      yet to be written. It might be yours!</P>
+      <DIV align=center>
+      <HR SIZE=1>
+      Last updated on February 28, 2003</DIV></TD></TR></TBODY></TABLE></CENTER>
+<SCRIPT src="A WebQuest about WebQuests_files/urchin.js" 
+type=text/javascript>
+</SCRIPT>
+
+<SCRIPT type=text/javascript>
+_uacct = "UA-53867-3";
+urchinTracker();
+</SCRIPT>
+</BODY></HTML>

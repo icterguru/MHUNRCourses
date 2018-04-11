@@ -1,0 +1,42 @@
+; A sort routine using a Popup control called TEMP.
+; Keep in mind that the items are sorted in alphanumeric
+; order which means that [1 10 2 20 3 4 5] is in order!
+; Therefore, this should not be used for numbers unless
+; you know that they all have the same number of digits.
+; Items are sorted into  ascending order by default.
+; Use the optional argument set to "FALSE to sort in
+; descending sequence.
+
+; Program written by Stan Munson (trollopite@hotmail.com).
+
+TO SORT :LIST [:ASCENDING? TRUE] 1
+IF EMPTY? :LIST OUTPUT :LIST
+DECLARE "POPUP "TEMP
+PPROPS "TEMP [VISIBLE FALSE]
+OUTPUT FILL.TEMP :LIST
+END
+
+TO FILL.TEMP :LIST
+IF EMPTY? :LIST OUTPUT GET.TEMP :LIST
+IGNORE ASK "TEMP [ADDSORTED FIRST :LIST]
+FILL.TEMP BUTFIRST :LIST
+END
+
+TO GET.TEMP :LIST
+(LOCAL "I "MAX)
+MAKE "MAX (GPROP "TEMP "ITEMCOUNT) - 1
+IF :ASCENDING? THEN \
+(FOR "I :MAX 0 [PPROP "TEMP "INDEX :I MAKE "LIST FPUT GPROP "TEMP "TEXT :LIST] -1) \
+ELSE \
+FOR "I 0 :MAX [PPROP "TEMP "INDEX :I MAKE "LIST FPUT GPROP "TEMP "TEXT :LIST]
+ERASE "TEMP
+OUTPUT :LIST
+END
+
+TO TESTIT
+LOCAL "L
+MAKE "L []
+REPEAT 26 [MAKE "L FPUT CHAR 64 + RANDOM 26 :L]
+(PRINT "|Before: | :L)
+(PRINT "|After:  | SORT :L)
+END

@@ -1,0 +1,68 @@
+; GVALUE and PPAIRS are useful additions to Logo's built-in
+; tools for using property lists.
+; These procedures were written by Stan Munson (trollopite@hotmail.com).
+
+; PPAIRS is a companion prodecure for PLIST.
+; PPAIRS prints (acutally shows) property pairs, one per line.
+; The PLIST command outputs a property list as one long list
+; which can be hard to read without a lot of scrolling.
+; Actually, PPAIRS will print any list of paired items.
+;
+; To invoke, type PPAIRS PLIST <property list name>
+;			   or PPAIRS <list of paired items>
+
+TO PPAIRS :LIST
+    IF ((TYPEOF :LIST) != "NODE) AND ((TYPEOF :LIST) != "NAME) THEN STOP
+    IF EMPTY? :LIST THEN STOP
+    IF (COUNT :LIST) = 1 THEN STOP
+    (SHOW FIRST :LIST FIRST BUTFIRST :LIST)
+    PPAIRS BUTFIRST BUTFIRST :LIST
+END
+
+; Demo of a property list using turtle 0
+
+PRINT [|Properties of Turtle 0:|]
+PPAIRS PLIST 0
+
+; Demo data
+
+MAKE "TESTLIST [JOHN 7 MIKE 6 PETE 12 ALEX 14]
+
+PRINT [|Pairs in :TESTLIST:|]
+PPAIRS :TESTLIST
+
+; GVALUE is a companion procedure for GLIST
+; GLIST outputs a list of property list names that have
+; a particular property, as in GLIST "PET to get
+; a list of the people with a PET property.
+;
+; GVALUE will output a list of property list names that
+; have a property with a particular property value, as in
+; GVALUE "PET "DOG to get a list of the people who 
+; have a pet dog.
+
+TO GVALUE :PROPERTY :VALUE
+LOCAL "RESULT
+MAKE "RESULT []
+FOREACH GLIST :PROPERTY \
+[IF EQUAL? :VALUE GPROP "? :PROPERTY THEN \
+MAKE "RESULT FPUT "? :RESULT]
+OUTPUT :RESULT
+END
+
+; demo data
+
+PPROPS "JOHN [AGE 10 PET DOG NAME ROVER]
+PPROPS "SARA [AGE 11 PET CAT NAME FLUFFY]
+PPROPS "DATA [AGE UNKNOWN PET CAT NAME SPOT]
+PPROPS "DICK [AGE 7 PET DOG NAME SPOT]
+PPROPS "ALLY [AGE 5]
+
+PRINT [|People with cats:|]
+SHOW GVALUE "PET "CAT
+
+PRINT [|People with dogs:|]
+SHOW GVALUE "PET "DOG
+
+PRINT [|People with pets named Spot:|]
+SHOW GVALUE "NAME "SPOT

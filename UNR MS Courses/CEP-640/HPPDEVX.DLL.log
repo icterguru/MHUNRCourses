@@ -1,0 +1,3 @@
+GetXmlFile.cpp: SendHttpViaNetwork> HttpSendRequest failed: (null)
+GetXmlFile.cpp: SetupLogging> 163->Getting the original XML data failed over the network
+

@@ -1,0 +1,22 @@
+; SWITCH simulates the switch/case statement found in other languages
+; The actual cases are set up in the call to SWITCH. For example:
+;
+;		SWITCH :CHOICE [
+;			[1 2 3] [PRINT :CHOICE]
+;			[4 5 6] [FD 100]
+;			[7 8 9] [BK 200]
+;			[ELSE ] [PRINT [|No matching cases|]
+;		]
+;
+; Routine written by Stan Munson (trollopite@hotmail.com).
+
+TO SWITCH :VALUE :CASES
+	IF EMPTY? :CASES STOP
+	IF MEMBER? :VALUE FIRST :CASES \
+		THEN RUN FIRST BUTFIRST :CASES STOP
+	IF EQUAL? "ELSE FIRST FIRST :CASES \
+		THEN RUN FIRST BUTFIRST :CASES STOP
+	SWITCH :VALUE BUTFIRST BUTFIRST :CASES
+END
+
+BURY [SWITCH]
